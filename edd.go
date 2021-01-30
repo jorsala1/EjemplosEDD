@@ -2,19 +2,20 @@ package main
 
 import (
 	"fmt"
+	"net/http"
+
+	"github.com/gorilla/mux"
 )
 
-// Pequeño objeto
-type persona struct {
-	iden   int
-	nombre string
+func rutaInicial(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "Si funciono el servidor")
 }
 
 func main() {
-	juanito := persona{
-		iden:   132,
-		nombre: "Juanito",
-	}
+	router := mux.NewRouter().StrictSlash(true)
 
-	fmt.Printf("%+v", juanito)
+	router.HandleFunc("/", rutaInicial)
+
+	http.ListenAndServe(":3000", router)
+
 }
