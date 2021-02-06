@@ -9,6 +9,7 @@ import (
 
 func rutaInicial(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Si funciono el servidor")
+	//comentario de prueba para git
 }
 
 func main() {
