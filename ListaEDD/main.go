@@ -1,22 +1,18 @@
 package main
 
 import (
-	"fmt"
-
-	"./lista"
+	"./pila"
 )
 
 func main() {
 
-	lis := lista.NewLista()
-	lis.Insertar(2)
-	lis.Insertar(4)
-	lis.Insertar(8)
-	lis.Insertar(16)
-	lis.Imprimir()
-	fmt.Println("Se termino de imprimir lista")
-	fmt.Println("__________________________________________")
-	lis.Eliminar(16)
-	lis.Imprimir()
+	lis := pila.NewPila()
 
+	lis.Push(2)
+	lis.Push(5)
+	lis.Push(7)
+	lis.Peek()
+	lis.Pop()
+	lis.Peek()
+	lis.Size()
 }
