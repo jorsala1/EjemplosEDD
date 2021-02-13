@@ -11,8 +11,9 @@ func main() {
 	lis.Push(2)
 	lis.Push(5)
 	lis.Push(7)
-	lis.Peek()
-	lis.Pop()
-	lis.Peek()
-	lis.Size()
+	lis.Push(1)
+	lis.Push(52)
+	lis.Push(4)
+	lis.Push(73)
+	lis.Graph()
 }

@@ -1,0 +1,19 @@
+digraph G { 
+rankdir = UD;
+	node [shape=record,color=black];
+label = "Pila";
+color=black;
+		n_0[label = "Valor: 73"];
+		n_1[label = "Valor: 4"];
+		n_2[label = "Valor: 52"];
+		n_3[label = "Valor: 1"];
+		n_4[label = "Valor: 7"];
+		n_5[label = "Valor: 5"];
+		n_6[label = "Valor: 2"];
+n_0->n_1;
+n_1->n_2;
+n_2->n_3;
+n_3->n_4;
+n_4->n_5;
+n_5->n_6;
+	}

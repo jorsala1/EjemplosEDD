@@ -1,6 +1,12 @@
 package pila
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+	"os"
+	"os/exec"
+	"strconv"
+)
 
 type nodopila struct {
 	anterior *nodopila
@@ -74,4 +80,45 @@ func (m *pila) Vaciar() {
 func (m *pila) Size() int {
 	fmt.Println("el tamaño de la pila es: ", m.tam)
 	return m.tam
+}
+
+//getFile is...
+func getFile(path string) *os.File {
+	file, err := os.OpenFile(path, os.O_RDWR, 0755)
+	if err != nil {
+		log.Fatal(err)
+	}
+	return file
+}
+
+func (m *pila) Graph() {
+	os.Create("pila/GraficaPila.dot")
+	graphdot := getFile("pila/GraficaPila.dot")
+
+	fmt.Fprintf(graphdot, "digraph G { \n")
+	fmt.Fprintf(graphdot, "rankdir = UD;\n")
+	fmt.Fprintf(graphdot, "\tnode [shape=record,color=black];\n")
+	fmt.Fprintf(graphdot, "label = \"Pila\";\n")
+	fmt.Fprintf(graphdot, "color=black;\n")
+
+	aux := m.cima
+	contador := 0
+	var text_aux string = ""
+
+	for aux != nil {
+		text_aux = "\t\tn_" + strconv.Itoa(contador) + "[label = \"Valor: " + strconv.Itoa(aux.valor) + "\"];\n"
+		fmt.Fprintf(graphdot, text_aux)
+		aux = aux.anterior
+		contador++
+	}
+
+	for i := 0; i < contador-1; i++ {
+		text_aux = "n_" + strconv.Itoa(i) + "->n_" + strconv.Itoa(i+1) + ";\n"
+		fmt.Fprintf(graphdot, text_aux)
+	}
+
+	fmt.Fprintf(graphdot, "\t}\n")
+
+	graphdot.Close()
+	exec.Command("dot -Tpng pila/GraficaPila.dot -o pila/GraficaPila.png ").Output()
 }
