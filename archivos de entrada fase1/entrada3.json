@@ -1,0 +1,721 @@
+{
+    "Datos": [
+        {
+            "Indice": "A",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Angulo y Bravo",
+                            "Descripcion": "Iusto eaque quidem numquam dolorem voluptatibus sint.",
+                            "Contacto": "968-450-757",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Angulo y Bravo",
+                            "Descripcion": "Harum aut non temporibus iste.",
+                            "Contacto": "988-409-374",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Armas, Rodríguez y Galarza Asociados",
+                            "Descripcion": "Enim odit vel adipisci a et quae odio dolorum modi.",
+                            "Contacto": "916 450 512",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Angulo y Bravo",
+                            "Descripcion": "Est possimus deserunt nesciunt.",
+                            "Contacto": "908.583.726",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": []
+                }
+            ]
+        },
+        {
+            "Indice": "B",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Briseño, Caraballo y Alemán Asociados",
+                            "Descripcion": "Rerum sit voluptatem tempore quia consequatur et minus consequatur.",
+                            "Contacto": "956939306",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Banda Arenas S.A.",
+                            "Descripcion": "Officiis dolorum et enim quibusdam sint.",
+                            "Contacto": "959-517-857",
+                            "Calificacion": 1
+                        },
+                        {
+                            "Nombre": "Brito Vanegas S.L.",
+                            "Descripcion": "Est dolorem laudantium eveniet non.",
+                            "Contacto": "989.706.275",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Bustamante y Orellana",
+                            "Descripcion": "Animi omnis dolorem.",
+                            "Contacto": "908.566.285",
+                            "Calificacion": 1
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Briseño, Caraballo y Alemán Asociados",
+                            "Descripcion": "Voluptatum qui qui eos qui in quidem eum.",
+                            "Contacto": "971.055.246",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Banda Arenas S.A.",
+                            "Descripcion": "Sit eius asperiores fugit id est.",
+                            "Contacto": "948 193 912",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Brito Vanegas S.L.",
+                            "Descripcion": "Laudantium nesciunt sint nemo omnis voluptas et.",
+                            "Contacto": "961149463",
+                            "Calificacion": 1
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Briseño, Caraballo y Alemán Asociados",
+                            "Descripcion": "Dolores ut natus nam quasi magnam illum et voluptatibus.",
+                            "Contacto": "935 809 689",
+                            "Calificacion": 4
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": []
+                }
+            ]
+        },
+        {
+            "Indice": "C",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": []
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Curiel, Puga y Sepúlveda Asociados",
+                            "Descripcion": "Porro qui excepturi autem optio quo sunt eaque ad.",
+                            "Contacto": "929818489",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Cabán Olvera S.L.",
+                            "Descripcion": "Architecto omnis facere.",
+                            "Contacto": "963.511.050",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Cepeda y Quiroz",
+                            "Descripcion": "Ut enim est iure quam alias.",
+                            "Contacto": "994283719",
+                            "Calificacion": 5
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Curiel, Puga y Sepúlveda Asociados",
+                            "Descripcion": "Autem quis commodi quae et nesciunt omnis necessitatibus et in.",
+                            "Contacto": "904.091.036",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Cabán Olvera S.L.",
+                            "Descripcion": "Quis quam vitae id vel est consequatur.",
+                            "Contacto": "984 109 704",
+                            "Calificacion": 2
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Curiel, Puga y Sepúlveda Asociados",
+                            "Descripcion": "Harum beatae ea vero.",
+                            "Contacto": "960 277 670",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Cabán Olvera S.L.",
+                            "Descripcion": "Ex facilis omnis autem laudantium ducimus.",
+                            "Contacto": "985637517",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Cepeda y Quiroz",
+                            "Descripcion": "Praesentium atque qui fuga voluptates.",
+                            "Contacto": "912.161.262",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Cabrera, Guardado y Quintero Asociados",
+                            "Descripcion": "Quod corporis asperiores.",
+                            "Contacto": "956 957 568",
+                            "Calificacion": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "D",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": []
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Delacrúz y Laureano",
+                            "Descripcion": "Id itaque eum et voluptas.",
+                            "Contacto": "903 957 984",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Delacrúz y Laureano",
+                            "Descripcion": "Non omnis quasi reiciendis.",
+                            "Contacto": "928-306-421",
+                            "Calificacion": 1
+                        },
+                        {
+                            "Nombre": "Delgado Hermanos",
+                            "Descripcion": "Aspernatur aliquid eligendi occaecati.",
+                            "Contacto": "977907576",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Dueñas, Bustos y Padilla Asociados",
+                            "Descripcion": "Placeat et praesentium in nulla sed sint eligendi.",
+                            "Contacto": "943884133",
+                            "Calificacion": 2
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Delacrúz y Laureano",
+                            "Descripcion": "Perferendis laboriosam commodi placeat.",
+                            "Contacto": "960 495 958",
+                            "Calificacion": 1
+                        },
+                        {
+                            "Nombre": "Delgado Hermanos",
+                            "Descripcion": "Velit ea tenetur ullam fugit deserunt aut alias reprehenderit.",
+                            "Contacto": "915-899-898",
+                            "Calificacion": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "E",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Escobar Carrasquillo S.A.",
+                            "Descripcion": "Nihil sint explicabo sunt voluptate.",
+                            "Contacto": "990-543-740",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Echevarría, Menéndez y Yáñez Asociados",
+                            "Descripcion": "A asperiores consequatur sequi tempora ab.",
+                            "Contacto": "918.770.223",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Echevarría Hermanos",
+                            "Descripcion": "Omnis ut explicabo nisi aut.",
+                            "Contacto": "912.166.433",
+                            "Calificacion": 2
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Escobar Carrasquillo S.A.",
+                            "Descripcion": "Porro ab rerum eveniet ut eaque et autem ex.",
+                            "Contacto": "987-881-363",
+                            "Calificacion": 4
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Escobar Carrasquillo S.A.",
+                            "Descripcion": "Qui est quia doloremque qui quis.",
+                            "Contacto": "929.945.801",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Echevarría, Menéndez y Yáñez Asociados",
+                            "Descripcion": "Repellendus consequatur rerum aut quos cumque numquam.",
+                            "Contacto": "957.786.197",
+                            "Calificacion": 1
+                        },
+                        {
+                            "Nombre": "Echevarría Hermanos",
+                            "Descripcion": "Sed eum est delectus sapiente eligendi qui optio.",
+                            "Contacto": "975 851 699",
+                            "Calificacion": 5
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Escobar Carrasquillo S.A.",
+                            "Descripcion": "Aliquid delectus ipsum nihil omnis.",
+                            "Contacto": "949 222 149",
+                            "Calificacion": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "F",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Fajardo Gómez Hermanos",
+                            "Descripcion": "Aut ipsam ad rerum non aperiam ea.",
+                            "Contacto": "994 443 935",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Frías, Domínguez y Valle Asociados",
+                            "Descripcion": "Itaque rem non.",
+                            "Contacto": "938.301.711",
+                            "Calificacion": 5
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Fajardo Gómez Hermanos",
+                            "Descripcion": "Non aut vel fugiat magnam est inventore voluptatem modi.",
+                            "Contacto": "936 428 606",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Fajardo Gómez Hermanos",
+                            "Descripcion": "Esse perferendis ut at ad libero unde aut.",
+                            "Contacto": "947 088 348",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Frías, Domínguez y Valle Asociados",
+                            "Descripcion": "Voluptas ut autem sint maiores dolores quia.",
+                            "Contacto": "907.143.446",
+                            "Calificacion": 1
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Fajardo Gómez Hermanos",
+                            "Descripcion": "Deserunt enim corporis ipsum quae repellendus quaerat.",
+                            "Contacto": "999.176.293",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Frías, Domínguez y Valle Asociados",
+                            "Descripcion": "Expedita odio facere.",
+                            "Contacto": "979.985.050",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Ferrer S.A.",
+                            "Descripcion": "Quo autem non aut ex voluptate quod voluptatem.",
+                            "Contacto": "973-482-579",
+                            "Calificacion": 1
+                        },
+                        {
+                            "Nombre": "Fonseca y Meraz",
+                            "Descripcion": "Beatae mollitia et enim.",
+                            "Contacto": "902 217 048",
+                            "Calificacion": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "G",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Galindo, Nieves y Escamilla Asociados",
+                            "Descripcion": "Esse ipsum dolorem itaque eum et.",
+                            "Contacto": "931962540",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Gaytán Ledesma Hermanos",
+                            "Descripcion": "Adipisci et rerum aut vel fugiat cupiditate eligendi.",
+                            "Contacto": "976-653-076",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Gastélum y Malave",
+                            "Descripcion": "Non quo omnis odit aperiam laboriosam laborum.",
+                            "Contacto": "986.625.806",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Guajardo, Bernal y Deleón Asociados",
+                            "Descripcion": "Excepturi et molestiae corrupti iusto dolores dolore assumenda blanditiis voluptatem.",
+                            "Contacto": "940.216.355",
+                            "Calificacion": 5
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Galindo, Nieves y Escamilla Asociados",
+                            "Descripcion": "Voluptatem soluta dignissimos sed voluptas et.",
+                            "Contacto": "983220583",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Gaytán Ledesma Hermanos",
+                            "Descripcion": "Autem doloremque quod tempora odio quod.",
+                            "Contacto": "915265360",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Gastélum y Malave",
+                            "Descripcion": "Qui non et quisquam rem iusto voluptatem non est est.",
+                            "Contacto": "922 194 366",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Guajardo, Bernal y Deleón Asociados",
+                            "Descripcion": "Est dolorem et dolorem.",
+                            "Contacto": "948-284-825",
+                            "Calificacion": 4
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Galindo, Nieves y Escamilla Asociados",
+                            "Descripcion": "Culpa unde atque sint aliquid accusantium.",
+                            "Contacto": "993-585-040",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Gaytán Ledesma Hermanos",
+                            "Descripcion": "Veniam saepe aut error.",
+                            "Contacto": "987 588 437",
+                            "Calificacion": 5
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Galindo, Nieves y Escamilla Asociados",
+                            "Descripcion": "Culpa explicabo in deserunt ipsam qui aut.",
+                            "Contacto": "972-648-643",
+                            "Calificacion": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "H",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Heredia, Acuña y Muñoz Asociados",
+                            "Descripcion": "Omnis sequi non.",
+                            "Contacto": "974427957",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Hernández Quiñónez Hermanos",
+                            "Descripcion": "Molestiae aut eius sunt laborum ut alias.",
+                            "Contacto": "952482271",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Hernández Mojica Hermanos",
+                            "Descripcion": "Aut similique aut.",
+                            "Contacto": "971-873-085",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Huerta, Salgado y Villaseñor Asociados",
+                            "Descripcion": "Sequi harum aut dicta ex voluptatem maxime ut debitis labore.",
+                            "Contacto": "924-281-001",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": []
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Heredia, Acuña y Muñoz Asociados",
+                            "Descripcion": "Beatae commodi eaque fugiat quo.",
+                            "Contacto": "961 147 689",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Hernández Quiñónez Hermanos",
+                            "Descripcion": "Ut dolorem sit accusantium voluptas assumenda corrupti.",
+                            "Contacto": "912 224 403",
+                            "Calificacion": 1
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Heredia, Acuña y Muñoz Asociados",
+                            "Descripcion": "Facere non amet sunt et ea vel enim.",
+                            "Contacto": "998.399.005",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Hernández Quiñónez Hermanos",
+                            "Descripcion": "Porro id animi.",
+                            "Contacto": "903880948",
+                            "Calificacion": 1
+                        },
+                        {
+                            "Nombre": "Hernández Mojica Hermanos",
+                            "Descripcion": "Eveniet illum consequatur.",
+                            "Contacto": "993.872.498",
+                            "Calificacion": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "I",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Irizarry S.L.",
+                            "Descripcion": "Quis culpa porro fuga architecto.",
+                            "Contacto": "928.490.540",
+                            "Calificacion": 2
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": []
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Irizarry S.L.",
+                            "Descripcion": "Nihil nostrum reprehenderit.",
+                            "Contacto": "901 891 559",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Ibarra y Ordóñez",
+                            "Descripcion": "Eius nihil illo provident id tempore explicabo cumque.",
+                            "Contacto": "954.604.411",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Irizarry, Lebrón y Laureano Asociados",
+                            "Descripcion": "Veritatis vitae rerum maxime modi alias nesciunt quidem.",
+                            "Contacto": "964-121-418",
+                            "Calificacion": 2
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Irizarry S.L.",
+                            "Descripcion": "Rerum itaque aliquam excepturi rem quia quod pariatur rem repudiandae.",
+                            "Contacto": "920.540.684",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Ibarra y Ordóñez",
+                            "Descripcion": "Qui accusamus sint quis praesentium rerum.",
+                            "Contacto": "929064973",
+                            "Calificacion": 2
+                        },
+                        {
+                            "Nombre": "Irizarry, Lebrón y Laureano Asociados",
+                            "Descripcion": "Sed dolores ex accusantium sed earum dolorem tempora.",
+                            "Contacto": "913.881.132",
+                            "Calificacion": 5
+                        },
+                        {
+                            "Nombre": "Ibarra y Mora",
+                            "Descripcion": "Hic et at.",
+                            "Contacto": "980 809 149",
+                            "Calificacion": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "J",
+            "Departamentos": [
+                {
+                    "Nombre": "CD's",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Jiménez Vázquez S.A.",
+                            "Descripcion": "Deleniti quia cupiditate praesentium.",
+                            "Contacto": "922 888 462",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Jaime, Vélez y Guzmán Asociados",
+                            "Descripcion": "Nam non nemo non excepturi quisquam distinctio quisquam in dolor.",
+                            "Contacto": "909-969-403",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Jaime y Saavedra",
+                            "Descripcion": "Qui dignissimos asperiores voluptatem dolorum quaerat unde est.",
+                            "Contacto": "969226816",
+                            "Calificacion": 3
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Costura",
+                    "Tiendas": []
+                },
+                {
+                    "Nombre": "Tegnología",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Jiménez Vázquez S.A.",
+                            "Descripcion": "Dolorem ut porro maxime cupiditate voluptas doloribus.",
+                            "Contacto": "996.557.321",
+                            "Calificacion": 3
+                        },
+                        {
+                            "Nombre": "Jaime, Vélez y Guzmán Asociados",
+                            "Descripcion": "Est quia ut voluptatum quasi.",
+                            "Contacto": "924123366",
+                            "Calificacion": 4
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Proyectores de video",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Jiménez Vázquez S.A.",
+                            "Descripcion": "Ipsum cupiditate sint voluptatem quidem eveniet quia beatae qui et.",
+                            "Contacto": "928-174-446",
+                            "Calificacion": 4
+                        },
+                        {
+                            "Nombre": "Jaime, Vélez y Guzmán Asociados",
+                            "Descripcion": "Dignissimos quo quam velit.",
+                            "Contacto": "991-979-158",
+                            "Calificacion": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
