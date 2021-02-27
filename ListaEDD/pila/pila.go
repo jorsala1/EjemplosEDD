@@ -82,9 +82,10 @@ func (m *pila) Size() int {
 	return m.tam
 }
 
-//getFile is...
+//obtener el archivo
 func getFile(path string) *os.File {
-	file, err := os.OpenFile(path, os.O_RDWR, 0755)
+	file, err := os.OpenFile(path, os.O_RDWR, 0775)
+
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -92,21 +93,22 @@ func getFile(path string) *os.File {
 }
 
 func (m *pila) Graph() {
-	os.Create("pila/GraficaPila.dot")
-	graphdot := getFile("pila/GraficaPila.dot")
+	os.Create("GraficaPila.dot")
 
-	fmt.Fprintf(graphdot, "digraph G { \n")
-	fmt.Fprintf(graphdot, "rankdir = UD;\n")
-	fmt.Fprintf(graphdot, "\tnode [shape=record,color=black];\n")
+	graphdot := getFile("GraficaPila.dot")
+
+	fmt.Fprintf(graphdot, "digraph G {\n")
+	fmt.Fprintf(graphdot, "rankdir = UD; \n")
+	fmt.Fprintf(graphdot, "\tnode [shape=record, color=black]; \n")
 	fmt.Fprintf(graphdot, "label = \"Pila\";\n")
-	fmt.Fprintf(graphdot, "color=black;\n")
+	fmt.Fprintf(graphdot, "color= black;\n")
 
 	aux := m.cima
 	contador := 0
 	var text_aux string = ""
 
 	for aux != nil {
-		text_aux = "\t\tn_" + strconv.Itoa(contador) + "[label = \"Valor: " + strconv.Itoa(aux.valor) + "\"];\n"
+		text_aux = "\t\tn_" + strconv.Itoa(contador) + "[label = \"valor: " + strconv.Itoa(aux.valor) + "\"]; \n"
 		fmt.Fprintf(graphdot, text_aux)
 		aux = aux.anterior
 		contador++
@@ -117,8 +119,9 @@ func (m *pila) Graph() {
 		fmt.Fprintf(graphdot, text_aux)
 	}
 
-	fmt.Fprintf(graphdot, "\t}\n")
+	fmt.Fprintf(graphdot, "}\n")
+
+	exec.Command("dot", "-Tpng", "GraficaPila.dot", "-o", "GraficaPila.png ").Output()
 
 	graphdot.Close()
-	exec.Command("dot -Tpng pila/GraficaPila.dot -o pila/GraficaPila.png ").Output()
 }

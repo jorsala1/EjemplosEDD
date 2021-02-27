@@ -41,12 +41,17 @@ func (m *Lista) Insertar(valor int) {
 // imprimir la lista
 func (m *Lista) Imprimir() {
 	aux := m.inicio
-	for aux != nil {
-		fmt.Print("<-[", aux.dato, "]->")
-		aux = aux.siguiente
+	if m.tam == 0 {
+		fmt.Println("lista vacia")
+	}else{
+		for aux != nil {
+			fmt.Print("<-[", aux.dato, "]->")
+			aux = aux.siguiente
+		}
+		fmt.Println()
+		fmt.Println("Tamaño lista = ", m.tam)
 	}
-	fmt.Println()
-	fmt.Println("Tamaño lista = ", m.tam)
+
 }
 
 //Buscar Elemento dentro de lista
@@ -66,20 +71,42 @@ func (m *Lista) Buscar(valor int) *nodo {
 //Eliminar nodo de la lista
 func (m *Lista) Eliminar(valor int) {
 	aux := m.Buscar(valor)
+	if m.tam == 0 {
+		fmt.Println("lista vacia")
+	}else{
+		if m.tam == 1{
+			m.inicio = nil
+			m.ultimo = nil
+			fmt.Println("el nodo es unico")
+			m.tam--
+		}else{
+			if m.inicio == aux {
 
-	if m.inicio == aux {
-		m.inicio = aux.siguiente
-		aux.siguiente.anterior = nil
-		aux.siguiente = nil
-	} else if m.ultimo == aux {
-		m.ultimo = aux.anterior
-		aux.anterior.siguiente = nil
-		aux.anterior = nil
-	} else {
-		aux.anterior.siguiente = aux.siguiente
-		aux.siguiente.anterior = aux.anterior
-		aux.anterior = nil
-		aux.siguiente = nil
+				m.inicio = aux.siguiente
+				aux.siguiente.anterior = nil
+				aux.siguiente = nil
+				fmt.Println("el nodo es el inicio")
+				m.tam--
+		} else if m.ultimo == aux {
+				m.ultimo = aux.anterior
+				aux.anterior.siguiente = nil
+				aux.anterior = nil
+				fmt.Println("el nodo es el final")
+				m.tam--
+		} else {
+				aux.anterior.siguiente = aux.siguiente
+				aux.siguiente.anterior = aux.anterior
+				aux.anterior = nil
+				aux.siguiente = nil
+				fmt.Println("el nodo es enmedio")
+				m.tam--
+		}
+
 	}
-	m.tam--
+
+
+}
+
+
+
 }

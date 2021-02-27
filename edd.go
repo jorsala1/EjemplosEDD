@@ -32,6 +32,7 @@ type Sobre struct {
 }
 
 func main() {
+	fmt.Println("se levanto el server")
 	request()
 }
 
@@ -47,9 +48,9 @@ func metodopost(w http.ResponseWriter, r *http.Request) {
 	body, _ := ioutil.ReadAll(r.Body)
 	var re Sobre
 	json.Unmarshal(body, &re)
-	fmt.Println(re.Datos[0].Departamentos[0].Tiendas[0])
+	fmt.Println("Se cargaron los datos")
 	w.Header().Set("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(re)
+	json.NewEncoder(w).Encode(re.Datos[0].Departamentos[0].Tiendas[0])
 	//fmt.Fprintln(w, re.Datos[0].Departamentos[0].Tiendas[0])
 }
 

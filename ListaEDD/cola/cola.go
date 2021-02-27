@@ -64,7 +64,7 @@ func (m *cola) Mostrar() {
 
 //Metodo para ver el frente de la cola
 func (m *cola) Front() *nodocola {
-	fmt.Println("el frente es: ", m.frente.valor)
+	fmt.Println("el frente es: ", m.frente)
 	return m.frente
 }
 
