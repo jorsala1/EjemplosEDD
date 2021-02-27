@@ -1,6 +1,8 @@
 package arbol
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // nodo del arbol
 type NodoABB struct {
@@ -63,13 +65,13 @@ func insertarABB(raiz *NodoABB,nuevo *NodoABB){
 
 // Metodo para obtener un arbol de manera recursiva
 func  ObtenerNodo(raiz *NodoABB, valor int) *NodoABB{
-	var retornado *NodoABB
+
 	if raiz == nil  {
 		return nil
 	}else if raiz.valor == valor{
 		fmt.Println("se encontro el nodo")
-		retornado = raiz
-		return  retornado
+
+		return  raiz
 	}else{
 		if valor > raiz.valor{
 			fmt.Println("se corrio a la derecha")
@@ -82,13 +84,13 @@ func  ObtenerNodo(raiz *NodoABB, valor int) *NodoABB{
 			return  nil
 		}
 	}
-	return retornado
+	return nil
 }
 
 // Metodo que obtiene el nodo como tal
 func (ar *Arbol) Obtener(valor int) *NodoABB {
 	retornado := ObtenerNodo(ar.raiz,valor)
-	fmt.Println(retornado)
+
 	return retornado
 }
 
