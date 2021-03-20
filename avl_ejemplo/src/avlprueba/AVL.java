@@ -111,11 +111,11 @@ public class AVL {
             }else{
                 subArb.izq = insertarAVL(nuevo,subArb.izq);
                 if((obtFE(subArb.izq)-obtFE(subArb.der)==2)){
-                    /*if(nuevo.id< subArb.izq.id){
+                    if(nuevo.id< subArb.izq.id){
                         nuevoPadre = RotacionIzq(subArb);
                     }else{
                         nuevoPadre = RotacionDobleIzq(subArb);
-                    }*/
+                    }
                 }
             }
         }else if(nuevo.id>subArb.id){
@@ -124,11 +124,11 @@ public class AVL {
             }else{
                 subArb.der = insertarAVL(nuevo,subArb.der);
                 if((obtFE(subArb.der)-obtFE(subArb.izq)==2)){
-                   /* if(nuevo.id>subArb.der.id){
+                    if(nuevo.id>subArb.der.id){
                         nuevoPadre = RotacionDer(subArb);
                     }else{
                         nuevoPadre = RotacionDobleDer(subArb);
-                    }*/
+                    }
                 }
             }
         }else{

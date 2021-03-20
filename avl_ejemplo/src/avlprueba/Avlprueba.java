@@ -23,7 +23,10 @@ public class Avlprueba {
         avl.insertar(3, "ad", "ad");
         avl.insertar(6, "ad", "ad");
         avl.insertar(12, "ad", "ad");
-
+        avl.insertar(13, "ad", "ad");
+        avl.insertar(11, "ad", "ad");
+        avl.insertar(14, "ad", "ad");
+        avl.insertar(16, "ad", "ad");
         
         avl.preOrden(avl.raiz);
         
