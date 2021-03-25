@@ -110,7 +110,7 @@ func (m *Matriz) Insertar(posx int, posy int, id int) {
 			nuevo.SiguienteX = listaX.Primero
 			listaX.Primero.AnteriorX = nuevo
 			listaX.Primero = nuevo
-			return
+			//return
 		}else { //se recorre la lista para insertar ordenado
 			pivote := listaX.Primero
 
@@ -121,12 +121,14 @@ func (m *Matriz) Insertar(posx int, posy int, id int) {
 					pivote.AnteriorX.SiguienteX = nuevo
 				}else if (nuevo.Y == pivote.Y && nuevo.X == pivote.X ){//comparacion para saber si no se ha insertado una mis posicion
 					fmt.Println("Ya existe un nodo es estas coordenadas")
-					return
+					//return
+					break
 				} else{ //else el y del nuevo es mayor al del pivote 
 					if (pivote.SiguienteX == nil){ //se valida si se llego al ultimo 
 						pivote.SiguienteX = nuevo //si el siginete es nil 
 						nuevo.AnteriorX = pivote
-						return
+						//return
+						break
 					}else{
 						pivote = pivote.SiguienteX //si no es el ultimo nos pasamos al siguiente y vuelve a iterar el ciclo
 					}
@@ -149,7 +151,7 @@ func (m *Matriz) Insertar(posx int, posy int, id int) {
 			nuevo.SiguienteY = listaY.Primero
 			listaY.Primero.AnteriorY = nuevo
 			listaY.Primero = nuevo
-			return
+			//return
 		}else { //se recorre la lista para insertar ordenado
 			pivote := listaY.Primero
 
@@ -161,12 +163,14 @@ func (m *Matriz) Insertar(posx int, posy int, id int) {
 					pivote.AnteriorY.SiguienteY = nuevo
 				}else if (nuevo.Y == pivote.Y && nuevo.X == pivote.X ){//comparacion para saber si no se ha insertado una mis posicion
 					fmt.Println("Ya existe un nodo es estas coordenadas")
-					return
+					//return
+					break
 				} else{ //else el y del nuevo es mayor al del pivote 
 					if (pivote.SiguienteY == nil){ //se valida si se llego al ultimo 
 						pivote.SiguienteY = nuevo //si el siginete es nil 
 						nuevo.AnteriorY = pivote
-						return
+						//return
+						break
 					}else{
 						pivote = pivote.SiguienteY //si no es el ultimo nos pasamos al siguiente y vuelve a iterar el ciclo
 					}
