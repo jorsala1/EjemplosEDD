@@ -1,0 +1,2330 @@
+{
+    "Pedidos": [
+        {
+            "Fecha": "20-06-1999",
+            "Tienda": "Barraza Cintrón S.A.",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 426
+                }
+            ]
+        },
+        {
+            "Fecha": "21-10-2003",
+            "Tienda": "Borrego e Hijos",
+            "Departamento": "Enchufes",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 940
+                },
+                {
+                    "Codigo": 955
+                },
+                {
+                    "Codigo": 941
+                },
+                {
+                    "Codigo": 953
+                },
+                {
+                    "Codigo": 939
+                },
+                {
+                    "Codigo": 946
+                },
+                {
+                    "Codigo": 944
+                },
+                {
+                    "Codigo": 947
+                },
+                {
+                    "Codigo": 940
+                },
+                {
+                    "Codigo": 953
+                },
+                {
+                    "Codigo": 958
+                },
+                {
+                    "Codigo": 949
+                },
+                {
+                    "Codigo": 957
+                },
+                {
+                    "Codigo": 942
+                }
+            ]
+        },
+        {
+            "Fecha": "04-11-2001",
+            "Tienda": "Corrales y Muñoz",
+            "Departamento": "Enchufes",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 590
+                },
+                {
+                    "Codigo": 627
+                },
+                {
+                    "Codigo": 610
+                },
+                {
+                    "Codigo": 630
+                },
+                {
+                    "Codigo": 623
+                },
+                {
+                    "Codigo": 595
+                },
+                {
+                    "Codigo": 600
+                },
+                {
+                    "Codigo": 631
+                },
+                {
+                    "Codigo": 635
+                },
+                {
+                    "Codigo": 604
+                }
+            ]
+        },
+        {
+            "Fecha": "26-03-1998",
+            "Tienda": "Bermúdez Patiño Hermanos",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 322
+                },
+                {
+                    "Codigo": 325
+                },
+                {
+                    "Codigo": 314
+                },
+                {
+                    "Codigo": 320
+                },
+                {
+                    "Codigo": 329
+                },
+                {
+                    "Codigo": 324
+                },
+                {
+                    "Codigo": 325
+                },
+                {
+                    "Codigo": 320
+                }
+            ]
+        },
+        {
+            "Fecha": "15-09-2004",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Enchufes",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 286
+                },
+                {
+                    "Codigo": 286
+                },
+                {
+                    "Codigo": 286
+                },
+                {
+                    "Codigo": 287
+                },
+                {
+                    "Codigo": 286
+                }
+            ]
+        },
+        {
+            "Fecha": "25-02-1998",
+            "Tienda": "Corrales y Muñoz",
+            "Departamento": "Enchufes",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 593
+                },
+                {
+                    "Codigo": 625
+                },
+                {
+                    "Codigo": 623
+                },
+                {
+                    "Codigo": 622
+                },
+                {
+                    "Codigo": 616
+                },
+                {
+                    "Codigo": 635
+                },
+                {
+                    "Codigo": 596
+                },
+                {
+                    "Codigo": 607
+                },
+                {
+                    "Codigo": 617
+                },
+                {
+                    "Codigo": 611
+                },
+                {
+                    "Codigo": 623
+                },
+                {
+                    "Codigo": 605
+                },
+                {
+                    "Codigo": 622
+                },
+                {
+                    "Codigo": 617
+                }
+            ]
+        },
+        {
+            "Fecha": "24-05-2013",
+            "Tienda": "Dueñas y Avilés",
+            "Departamento": "Costura",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 889
+                },
+                {
+                    "Codigo": 883
+                },
+                {
+                    "Codigo": 885
+                },
+                {
+                    "Codigo": 873
+                },
+                {
+                    "Codigo": 869
+                },
+                {
+                    "Codigo": 874
+                }
+            ]
+        },
+        {
+            "Fecha": "22-09-2006",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 872
+                },
+                {
+                    "Codigo": 884
+                },
+                {
+                    "Codigo": 893
+                },
+                {
+                    "Codigo": 878
+                },
+                {
+                    "Codigo": 896
+                },
+                {
+                    "Codigo": 889
+                },
+                {
+                    "Codigo": 872
+                },
+                {
+                    "Codigo": 876
+                },
+                {
+                    "Codigo": 885
+                }
+            ]
+        },
+        {
+            "Fecha": "06-01-2007",
+            "Tienda": "Corrales y Muñoz",
+            "Departamento": "Enchufes",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 622
+                },
+                {
+                    "Codigo": 608
+                }
+            ]
+        },
+        {
+            "Fecha": "14-09-2011",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 917
+                },
+                {
+                    "Codigo": 908
+                },
+                {
+                    "Codigo": 903
+                },
+                {
+                    "Codigo": 912
+                },
+                {
+                    "Codigo": 901
+                },
+                {
+                    "Codigo": 904
+                },
+                {
+                    "Codigo": 909
+                }
+            ]
+        },
+        {
+            "Fecha": "26-11-2019",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Costura",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 300
+                },
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 308
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 300
+                },
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 300
+                }
+            ]
+        },
+        {
+            "Fecha": "29-03-2008",
+            "Tienda": "Armendáriz y Malave",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 167
+                },
+                {
+                    "Codigo": 173
+                },
+                {
+                    "Codigo": 195
+                },
+                {
+                    "Codigo": 193
+                },
+                {
+                    "Codigo": 163
+                },
+                {
+                    "Codigo": 167
+                },
+                {
+                    "Codigo": 162
+                }
+            ]
+        },
+        {
+            "Fecha": "20-05-2002",
+            "Tienda": "Duarte, Gutiérrez y Vega Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 614
+                },
+                {
+                    "Codigo": 614
+                }
+            ]
+        },
+        {
+            "Fecha": "21-02-2003",
+            "Tienda": "Corrales Mojica S.A.",
+            "Departamento": "Costura",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 572
+                },
+                {
+                    "Codigo": 579
+                },
+                {
+                    "Codigo": 573
+                },
+                {
+                    "Codigo": 575
+                },
+                {
+                    "Codigo": 576
+                },
+                {
+                    "Codigo": 574
+                },
+                {
+                    "Codigo": 580
+                },
+                {
+                    "Codigo": 573
+                },
+                {
+                    "Codigo": 574
+                },
+                {
+                    "Codigo": 571
+                }
+            ]
+        },
+        {
+            "Fecha": "02-03-2007",
+            "Tienda": "Bermúdez Patiño Hermanos",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 170
+                },
+                {
+                    "Codigo": 197
+                },
+                {
+                    "Codigo": 172
+                },
+                {
+                    "Codigo": 189
+                },
+                {
+                    "Codigo": 204
+                },
+                {
+                    "Codigo": 189
+                },
+                {
+                    "Codigo": 200
+                },
+                {
+                    "Codigo": 186
+                },
+                {
+                    "Codigo": 196
+                },
+                {
+                    "Codigo": 192
+                },
+                {
+                    "Codigo": 187
+                },
+                {
+                    "Codigo": 186
+                }
+            ]
+        },
+        {
+            "Fecha": "12-01-2012",
+            "Tienda": "Correa, Águilar y Murillo Asociados",
+            "Departamento": "Enchufes",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 532
+                },
+                {
+                    "Codigo": 524
+                },
+                {
+                    "Codigo": 538
+                },
+                {
+                    "Codigo": 538
+                }
+            ]
+        },
+        {
+            "Fecha": "11-01-2012",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 289
+                },
+                {
+                    "Codigo": 271
+                },
+                {
+                    "Codigo": 271
+                },
+                {
+                    "Codigo": 291
+                },
+                {
+                    "Codigo": 290
+                },
+                {
+                    "Codigo": 292
+                },
+                {
+                    "Codigo": 272
+                },
+                {
+                    "Codigo": 288
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 291
+                },
+                {
+                    "Codigo": 273
+                },
+                {
+                    "Codigo": 270
+                },
+                {
+                    "Codigo": 271
+                },
+                {
+                    "Codigo": 291
+                }
+            ]
+        },
+        {
+            "Fecha": "04-06-2018",
+            "Tienda": "Berríos Flores Hermanos",
+            "Departamento": "Costura",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 776
+                },
+                {
+                    "Codigo": 771
+                }
+            ]
+        },
+        {
+            "Fecha": "03-06-2015",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 280
+                },
+                {
+                    "Codigo": 275
+                },
+                {
+                    "Codigo": 265
+                },
+                {
+                    "Codigo": 281
+                },
+                {
+                    "Codigo": 286
+                },
+                {
+                    "Codigo": 287
+                },
+                {
+                    "Codigo": 277
+                }
+            ]
+        },
+        {
+            "Fecha": "04-08-2010",
+            "Tienda": "Berríos Flores Hermanos",
+            "Departamento": "Equipaje",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 215
+                },
+                {
+                    "Codigo": 221
+                },
+                {
+                    "Codigo": 214
+                }
+            ]
+        },
+        {
+            "Fecha": "23-04-2007",
+            "Tienda": "Dueñas y Avilés",
+            "Departamento": "Costura",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 882
+                },
+                {
+                    "Codigo": 885
+                },
+                {
+                    "Codigo": 885
+                },
+                {
+                    "Codigo": 890
+                },
+                {
+                    "Codigo": 873
+                },
+                {
+                    "Codigo": 870
+                },
+                {
+                    "Codigo": 879
+                }
+            ]
+        },
+        {
+            "Fecha": "06-07-1999",
+            "Tienda": "Berríos Flores Hermanos",
+            "Departamento": "Enchufes",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 382
+                }
+            ]
+        },
+        {
+            "Fecha": "26-03-2008",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 305
+                },
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 305
+                },
+                {
+                    "Codigo": 308
+                },
+                {
+                    "Codigo": 302
+                },
+                {
+                    "Codigo": 304
+                },
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 303
+                }
+            ]
+        },
+        {
+            "Fecha": "06-07-2017",
+            "Tienda": "Alanis e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 930
+                },
+                {
+                    "Codigo": 944
+                },
+                {
+                    "Codigo": 959
+                },
+                {
+                    "Codigo": 924
+                },
+                {
+                    "Codigo": 948
+                },
+                {
+                    "Codigo": 946
+                },
+                {
+                    "Codigo": 937
+                },
+                {
+                    "Codigo": 929
+                },
+                {
+                    "Codigo": 935
+                },
+                {
+                    "Codigo": 939
+                },
+                {
+                    "Codigo": 924
+                },
+                {
+                    "Codigo": 943
+                },
+                {
+                    "Codigo": 953
+                },
+                {
+                    "Codigo": 951
+                }
+            ]
+        },
+        {
+            "Fecha": "01-04-2002",
+            "Tienda": "Dueñas y Avilés",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 681
+                },
+                {
+                    "Codigo": 711
+                }
+            ]
+        },
+        {
+            "Fecha": "06-09-2014",
+            "Tienda": "Delgadillo Delapaz e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 1003
+                },
+                {
+                    "Codigo": 1000
+                },
+                {
+                    "Codigo": 1038
+                },
+                {
+                    "Codigo": 994
+                },
+                {
+                    "Codigo": 1000
+                },
+                {
+                    "Codigo": 998
+                },
+                {
+                    "Codigo": 1003
+                },
+                {
+                    "Codigo": 1030
+                }
+            ]
+        },
+        {
+            "Fecha": "19-06-2009",
+            "Tienda": "Berríos Flores Hermanos",
+            "Departamento": "Costura",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 756
+                },
+                {
+                    "Codigo": 766
+                },
+                {
+                    "Codigo": 754
+                },
+                {
+                    "Codigo": 764
+                },
+                {
+                    "Codigo": 772
+                },
+                {
+                    "Codigo": 752
+                },
+                {
+                    "Codigo": 772
+                },
+                {
+                    "Codigo": 780
+                }
+            ]
+        },
+        {
+            "Fecha": "07-12-2014",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Enchufes",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 563
+                },
+                {
+                    "Codigo": 563
+                },
+                {
+                    "Codigo": 571
+                },
+                {
+                    "Codigo": 563
+                },
+                {
+                    "Codigo": 567
+                },
+                {
+                    "Codigo": 563
+                },
+                {
+                    "Codigo": 560
+                }
+            ]
+        },
+        {
+            "Fecha": "24-02-2020",
+            "Tienda": "Delgadillo Delapaz e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 271
+                },
+                {
+                    "Codigo": 270
+                },
+                {
+                    "Codigo": 282
+                },
+                {
+                    "Codigo": 272
+                },
+                {
+                    "Codigo": 280
+                },
+                {
+                    "Codigo": 274
+                },
+                {
+                    "Codigo": 281
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 270
+                },
+                {
+                    "Codigo": 274
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 279
+                },
+                {
+                    "Codigo": 280
+                }
+            ]
+        },
+        {
+            "Fecha": "11-12-2004",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Enchufes",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 589
+                },
+                {
+                    "Codigo": 579
+                },
+                {
+                    "Codigo": 567
+                },
+                {
+                    "Codigo": 586
+                },
+                {
+                    "Codigo": 572
+                },
+                {
+                    "Codigo": 589
+                },
+                {
+                    "Codigo": 597
+                },
+                {
+                    "Codigo": 576
+                },
+                {
+                    "Codigo": 565
+                },
+                {
+                    "Codigo": 600
+                },
+                {
+                    "Codigo": 572
+                },
+                {
+                    "Codigo": 573
+                }
+            ]
+        },
+        {
+            "Fecha": "13-07-2008",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 281
+                },
+                {
+                    "Codigo": 284
+                },
+                {
+                    "Codigo": 275
+                },
+                {
+                    "Codigo": 288
+                },
+                {
+                    "Codigo": 289
+                },
+                {
+                    "Codigo": 274
+                },
+                {
+                    "Codigo": 276
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 290
+                }
+            ]
+        },
+        {
+            "Fecha": "19-04-2000",
+            "Tienda": "Borrego e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 246
+                },
+                {
+                    "Codigo": 259
+                },
+                {
+                    "Codigo": 264
+                }
+            ]
+        },
+        {
+            "Fecha": "30-11-2006",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 307
+                },
+                {
+                    "Codigo": 304
+                },
+                {
+                    "Codigo": 302
+                },
+                {
+                    "Codigo": 305
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 304
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 308
+                },
+                {
+                    "Codigo": 308
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 308
+                },
+                {
+                    "Codigo": 302
+                }
+            ]
+        },
+        {
+            "Fecha": "05-12-1997",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 919
+                },
+                {
+                    "Codigo": 917
+                },
+                {
+                    "Codigo": 906
+                },
+                {
+                    "Codigo": 907
+                },
+                {
+                    "Codigo": 906
+                },
+                {
+                    "Codigo": 918
+                },
+                {
+                    "Codigo": 909
+                },
+                {
+                    "Codigo": 905
+                },
+                {
+                    "Codigo": 912
+                },
+                {
+                    "Codigo": 907
+                },
+                {
+                    "Codigo": 922
+                }
+            ]
+        },
+        {
+            "Fecha": "23-04-2000",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Equipaje",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 640
+                },
+                {
+                    "Codigo": 615
+                },
+                {
+                    "Codigo": 615
+                },
+                {
+                    "Codigo": 626
+                },
+                {
+                    "Codigo": 624
+                },
+                {
+                    "Codigo": 628
+                }
+            ]
+        },
+        {
+            "Fecha": "01-07-2008",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Smart Home",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 760
+                },
+                {
+                    "Codigo": 759
+                }
+            ]
+        },
+        {
+            "Fecha": "01-02-2013",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Smart Home",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 986
+                }
+            ]
+        },
+        {
+            "Fecha": "02-11-2018",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 282
+                },
+                {
+                    "Codigo": 272
+                },
+                {
+                    "Codigo": 273
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 285
+                },
+                {
+                    "Codigo": 273
+                },
+                {
+                    "Codigo": 289
+                },
+                {
+                    "Codigo": 266
+                },
+                {
+                    "Codigo": 286
+                }
+            ]
+        },
+        {
+            "Fecha": "16-02-2015",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 274
+                }
+            ]
+        },
+        {
+            "Fecha": "01-11-2016",
+            "Tienda": "Correa, Águilar y Murillo Asociados",
+            "Departamento": "Smart Home",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                }
+            ]
+        },
+        {
+            "Fecha": "10-11-2020",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 868
+                },
+                {
+                    "Codigo": 880
+                },
+                {
+                    "Codigo": 868
+                },
+                {
+                    "Codigo": 870
+                },
+                {
+                    "Codigo": 896
+                },
+                {
+                    "Codigo": 872
+                }
+            ]
+        },
+        {
+            "Fecha": "27-08-2004",
+            "Tienda": "Berríos Flores Hermanos",
+            "Departamento": "Enchufes",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 374
+                },
+                {
+                    "Codigo": 375
+                },
+                {
+                    "Codigo": 376
+                }
+            ]
+        },
+        {
+            "Fecha": "29-10-1999",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 369
+                },
+                {
+                    "Codigo": 369
+                },
+                {
+                    "Codigo": 357
+                },
+                {
+                    "Codigo": 379
+                },
+                {
+                    "Codigo": 381
+                },
+                {
+                    "Codigo": 371
+                },
+                {
+                    "Codigo": 360
+                },
+                {
+                    "Codigo": 359
+                },
+                {
+                    "Codigo": 360
+                },
+                {
+                    "Codigo": 367
+                },
+                {
+                    "Codigo": 369
+                },
+                {
+                    "Codigo": 349
+                },
+                {
+                    "Codigo": 354
+                },
+                {
+                    "Codigo": 379
+                }
+            ]
+        },
+        {
+            "Fecha": "28-11-2015",
+            "Tienda": "Corrales Mojica S.A.",
+            "Departamento": "Smart Home",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 605
+                },
+                {
+                    "Codigo": 607
+                },
+                {
+                    "Codigo": 610
+                },
+                {
+                    "Codigo": 612
+                },
+                {
+                    "Codigo": 607
+                },
+                {
+                    "Codigo": 611
+                },
+                {
+                    "Codigo": 607
+                },
+                {
+                    "Codigo": 606
+                },
+                {
+                    "Codigo": 605
+                }
+            ]
+        },
+        {
+            "Fecha": "19-01-2005",
+            "Tienda": "Delapaz S.A.",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 181
+                },
+                {
+                    "Codigo": 163
+                },
+                {
+                    "Codigo": 185
+                },
+                {
+                    "Codigo": 186
+                },
+                {
+                    "Codigo": 188
+                },
+                {
+                    "Codigo": 165
+                },
+                {
+                    "Codigo": 183
+                },
+                {
+                    "Codigo": 181
+                },
+                {
+                    "Codigo": 181
+                },
+                {
+                    "Codigo": 169
+                },
+                {
+                    "Codigo": 175
+                },
+                {
+                    "Codigo": 196
+                },
+                {
+                    "Codigo": 189
+                }
+            ]
+        },
+        {
+            "Fecha": "28-04-2013",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 368
+                }
+            ]
+        },
+        {
+            "Fecha": "27-04-2003",
+            "Tienda": "Corrales y Muñoz",
+            "Departamento": "Smart Home",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 246
+                },
+                {
+                    "Codigo": 257
+                },
+                {
+                    "Codigo": 237
+                },
+                {
+                    "Codigo": 255
+                },
+                {
+                    "Codigo": 242
+                }
+            ]
+        },
+        {
+            "Fecha": "31-03-2011",
+            "Tienda": "Delapaz S.A.",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 292
+                },
+                {
+                    "Codigo": 292
+                },
+                {
+                    "Codigo": 302
+                },
+                {
+                    "Codigo": 296
+                },
+                {
+                    "Codigo": 301
+                },
+                {
+                    "Codigo": 304
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 293
+                },
+                {
+                    "Codigo": 303
+                },
+                {
+                    "Codigo": 293
+                },
+                {
+                    "Codigo": 297
+                },
+                {
+                    "Codigo": 294
+                }
+            ]
+        },
+        {
+            "Fecha": "28-10-2011",
+            "Tienda": "Bermúdez Patiño Hermanos",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 315
+                },
+                {
+                    "Codigo": 326
+                },
+                {
+                    "Codigo": 318
+                },
+                {
+                    "Codigo": 311
+                },
+                {
+                    "Codigo": 319
+                },
+                {
+                    "Codigo": 317
+                }
+            ]
+        },
+        {
+            "Fecha": "23-05-2007",
+            "Tienda": "Corrales y Muñoz",
+            "Departamento": "Smart Home",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 260
+                },
+                {
+                    "Codigo": 243
+                },
+                {
+                    "Codigo": 246
+                }
+            ]
+        },
+        {
+            "Fecha": "05-04-2019",
+            "Tienda": "Correa, Águilar y Murillo Asociados",
+            "Departamento": "Smart Home",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                }
+            ]
+        },
+        {
+            "Fecha": "17-07-2008",
+            "Tienda": "Barraza Cintrón S.A.",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 427
+                },
+                {
+                    "Codigo": 429
+                },
+                {
+                    "Codigo": 428
+                },
+                {
+                    "Codigo": 428
+                },
+                {
+                    "Codigo": 425
+                }
+            ]
+        },
+        {
+            "Fecha": "10-08-2002",
+            "Tienda": "Bermúdez Patiño Hermanos",
+            "Departamento": "Smart Home",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 709
+                },
+                {
+                    "Codigo": 716
+                },
+                {
+                    "Codigo": 707
+                },
+                {
+                    "Codigo": 714
+                }
+            ]
+        },
+        {
+            "Fecha": "10-04-2007",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 367
+                },
+                {
+                    "Codigo": 359
+                },
+                {
+                    "Codigo": 351
+                },
+                {
+                    "Codigo": 378
+                },
+                {
+                    "Codigo": 361
+                },
+                {
+                    "Codigo": 361
+                },
+                {
+                    "Codigo": 366
+                },
+                {
+                    "Codigo": 361
+                }
+            ]
+        },
+        {
+            "Fecha": "12-09-2010",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Smart Home",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 982
+                },
+                {
+                    "Codigo": 984
+                },
+                {
+                    "Codigo": 966
+                },
+                {
+                    "Codigo": 964
+                },
+                {
+                    "Codigo": 963
+                },
+                {
+                    "Codigo": 963
+                },
+                {
+                    "Codigo": 964
+                },
+                {
+                    "Codigo": 974
+                },
+                {
+                    "Codigo": 953
+                }
+            ]
+        },
+        {
+            "Fecha": "11-06-2001",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 903
+                },
+                {
+                    "Codigo": 902
+                },
+                {
+                    "Codigo": 922
+                },
+                {
+                    "Codigo": 919
+                },
+                {
+                    "Codigo": 912
+                },
+                {
+                    "Codigo": 925
+                },
+                {
+                    "Codigo": 917
+                },
+                {
+                    "Codigo": 906
+                },
+                {
+                    "Codigo": 925
+                },
+                {
+                    "Codigo": 919
+                },
+                {
+                    "Codigo": 906
+                },
+                {
+                    "Codigo": 919
+                },
+                {
+                    "Codigo": 913
+                },
+                {
+                    "Codigo": 912
+                }
+            ]
+        },
+        {
+            "Fecha": "17-11-2009",
+            "Tienda": "Delgadillo Delapaz e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 994
+                },
+                {
+                    "Codigo": 1011
+                },
+                {
+                    "Codigo": 1020
+                },
+                {
+                    "Codigo": 1035
+                }
+            ]
+        },
+        {
+            "Fecha": "15-09-2018",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 746
+                },
+                {
+                    "Codigo": 751
+                },
+                {
+                    "Codigo": 745
+                },
+                {
+                    "Codigo": 741
+                },
+                {
+                    "Codigo": 744
+                },
+                {
+                    "Codigo": 744
+                },
+                {
+                    "Codigo": 760
+                },
+                {
+                    "Codigo": 760
+                },
+                {
+                    "Codigo": 752
+                },
+                {
+                    "Codigo": 743
+                }
+            ]
+        },
+        {
+            "Fecha": "23-10-2011",
+            "Tienda": "Armas S.L.",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 752
+                },
+                {
+                    "Codigo": 754
+                },
+                {
+                    "Codigo": 758
+                },
+                {
+                    "Codigo": 759
+                }
+            ]
+        },
+        {
+            "Fecha": "07-06-2004",
+            "Tienda": "Barraza Cintrón S.A.",
+            "Departamento": "Enchufes",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 92
+                },
+                {
+                    "Codigo": 92
+                },
+                {
+                    "Codigo": 88
+                },
+                {
+                    "Codigo": 114
+                },
+                {
+                    "Codigo": 88
+                },
+                {
+                    "Codigo": 98
+                },
+                {
+                    "Codigo": 99
+                },
+                {
+                    "Codigo": 96
+                },
+                {
+                    "Codigo": 103
+                },
+                {
+                    "Codigo": 117
+                },
+                {
+                    "Codigo": 117
+                },
+                {
+                    "Codigo": 96
+                }
+            ]
+        },
+        {
+            "Fecha": "28-05-2006",
+            "Tienda": "Correa, Águilar y Murillo Asociados",
+            "Departamento": "Enchufes",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 541
+                },
+                {
+                    "Codigo": 522
+                }
+            ]
+        },
+        {
+            "Fecha": "31-10-1997",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 373
+                },
+                {
+                    "Codigo": 381
+                },
+                {
+                    "Codigo": 367
+                },
+                {
+                    "Codigo": 357
+                },
+                {
+                    "Codigo": 370
+                },
+                {
+                    "Codigo": 375
+                },
+                {
+                    "Codigo": 351
+                },
+                {
+                    "Codigo": 355
+                },
+                {
+                    "Codigo": 360
+                },
+                {
+                    "Codigo": 375
+                },
+                {
+                    "Codigo": 365
+                }
+            ]
+        },
+        {
+            "Fecha": "19-06-2011",
+            "Tienda": "Duarte, Gutiérrez y Vega Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 614
+                },
+                {
+                    "Codigo": 614
+                },
+                {
+                    "Codigo": 614
+                }
+            ]
+        },
+        {
+            "Fecha": "07-01-1999",
+            "Tienda": "Bermúdez Patiño Hermanos",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 197
+                },
+                {
+                    "Codigo": 172
+                },
+                {
+                    "Codigo": 183
+                },
+                {
+                    "Codigo": 170
+                },
+                {
+                    "Codigo": 184
+                },
+                {
+                    "Codigo": 180
+                },
+                {
+                    "Codigo": 202
+                },
+                {
+                    "Codigo": 186
+                },
+                {
+                    "Codigo": 187
+                },
+                {
+                    "Codigo": 187
+                },
+                {
+                    "Codigo": 188
+                },
+                {
+                    "Codigo": 179
+                },
+                {
+                    "Codigo": 200
+                },
+                {
+                    "Codigo": 203
+                }
+            ]
+        },
+        {
+            "Fecha": "27-02-2013",
+            "Tienda": "Armendáriz y Malave",
+            "Departamento": "Costura",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 444
+                },
+                {
+                    "Codigo": 444
+                },
+                {
+                    "Codigo": 444
+                },
+                {
+                    "Codigo": 446
+                },
+                {
+                    "Codigo": 444
+                },
+                {
+                    "Codigo": 444
+                }
+            ]
+        },
+        {
+            "Fecha": "11-09-1998",
+            "Tienda": "Borrego e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 663
+                },
+                {
+                    "Codigo": 674
+                },
+                {
+                    "Codigo": 668
+                },
+                {
+                    "Codigo": 657
+                },
+                {
+                    "Codigo": 676
+                },
+                {
+                    "Codigo": 660
+                },
+                {
+                    "Codigo": 680
+                },
+                {
+                    "Codigo": 677
+                },
+                {
+                    "Codigo": 664
+                },
+                {
+                    "Codigo": 676
+                }
+            ]
+        },
+        {
+            "Fecha": "11-09-2013",
+            "Tienda": "Carmona, Malave y Rosado Asociados",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 269
+                },
+                {
+                    "Codigo": 288
+                },
+                {
+                    "Codigo": 269
+                },
+                {
+                    "Codigo": 275
+                },
+                {
+                    "Codigo": 267
+                },
+                {
+                    "Codigo": 269
+                },
+                {
+                    "Codigo": 278
+                }
+            ]
+        },
+        {
+            "Fecha": "04-06-2013",
+            "Tienda": "Borrego e Hijos",
+            "Departamento": "Costura",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 668
+                },
+                {
+                    "Codigo": 653
+                },
+                {
+                    "Codigo": 670
+                },
+                {
+                    "Codigo": 664
+                },
+                {
+                    "Codigo": 667
+                },
+                {
+                    "Codigo": 651
+                },
+                {
+                    "Codigo": 664
+                },
+                {
+                    "Codigo": 676
+                },
+                {
+                    "Codigo": 663
+                }
+            ]
+        },
+        {
+            "Fecha": "10-06-1998",
+            "Tienda": "Corrales Mojica S.A.",
+            "Departamento": "Equipaje",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 863
+                }
+            ]
+        },
+        {
+            "Fecha": "10-07-2001",
+            "Tienda": "Delgadillo Delapaz e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 1029
+                },
+                {
+                    "Codigo": 1038
+                },
+                {
+                    "Codigo": 1032
+                },
+                {
+                    "Codigo": 1036
+                },
+                {
+                    "Codigo": 1018
+                },
+                {
+                    "Codigo": 1008
+                },
+                {
+                    "Codigo": 1026
+                },
+                {
+                    "Codigo": 1011
+                },
+                {
+                    "Codigo": 1019
+                },
+                {
+                    "Codigo": 1036
+                },
+                {
+                    "Codigo": 990
+                },
+                {
+                    "Codigo": 1006
+                },
+                {
+                    "Codigo": 1013
+                }
+            ]
+        },
+        {
+            "Fecha": "08-07-2009",
+            "Tienda": "Berríos Flores Hermanos",
+            "Departamento": "Costura",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 758
+                },
+                {
+                    "Codigo": 778
+                },
+                {
+                    "Codigo": 773
+                },
+                {
+                    "Codigo": 764
+                },
+                {
+                    "Codigo": 780
+                },
+                {
+                    "Codigo": 770
+                },
+                {
+                    "Codigo": 774
+                },
+                {
+                    "Codigo": 752
+                },
+                {
+                    "Codigo": 767
+                },
+                {
+                    "Codigo": 778
+                },
+                {
+                    "Codigo": 765
+                },
+                {
+                    "Codigo": 756
+                },
+                {
+                    "Codigo": 760
+                },
+                {
+                    "Codigo": 776
+                }
+            ]
+        },
+        {
+            "Fecha": "05-12-2011",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Smart Home",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Codigo": 610
+                },
+                {
+                    "Codigo": 605
+                },
+                {
+                    "Codigo": 604
+                },
+                {
+                    "Codigo": 611
+                },
+                {
+                    "Codigo": 604
+                },
+                {
+                    "Codigo": 609
+                },
+                {
+                    "Codigo": 605
+                },
+                {
+                    "Codigo": 606
+                },
+                {
+                    "Codigo": 608
+                },
+                {
+                    "Codigo": 609
+                }
+            ]
+        },
+        {
+            "Fecha": "19-03-2009",
+            "Tienda": "de Jesús e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Codigo": 308
+                },
+                {
+                    "Codigo": 306
+                },
+                {
+                    "Codigo": 302
+                },
+                {
+                    "Codigo": 307
+                },
+                {
+                    "Codigo": 303
+                }
+            ]
+        },
+        {
+            "Fecha": "02-06-2018",
+            "Tienda": "Correa, Águilar y Murillo Asociados",
+            "Departamento": "Smart Home",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                },
+                {
+                    "Codigo": 4
+                }
+            ]
+        },
+        {
+            "Fecha": "30-10-2008",
+            "Tienda": "Delgadillo Delapaz e Hijos",
+            "Departamento": "Moda para Mujer",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 996
+                },
+                {
+                    "Codigo": 1004
+                },
+                {
+                    "Codigo": 1031
+                },
+                {
+                    "Codigo": 1027
+                },
+                {
+                    "Codigo": 1020
+                },
+                {
+                    "Codigo": 997
+                },
+                {
+                    "Codigo": 1024
+                },
+                {
+                    "Codigo": 1004
+                },
+                {
+                    "Codigo": 1014
+                },
+                {
+                    "Codigo": 1029
+                }
+            ]
+        },
+        {
+            "Fecha": "25-09-2013",
+            "Tienda": "Delgadillo Delapaz e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Codigo": 274
+                },
+                {
+                    "Codigo": 277
+                },
+                {
+                    "Codigo": 277
+                },
+                {
+                    "Codigo": 272
+                },
+                {
+                    "Codigo": 270
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 278
+                },
+                {
+                    "Codigo": 279
+                }
+            ]
+        },
+        {
+            "Fecha": "25-01-2000",
+            "Tienda": "Corrales Mojica S.A.",
+            "Departamento": "Equipaje",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Codigo": 865
+                },
+                {
+                    "Codigo": 851
+                }
+            ]
+        }
+    ]
+}
