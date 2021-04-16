@@ -1,0 +1,19 @@
+graph G {
+rankdir = LR; 
+subgraph cluster_1 { 
+node [color=lightblue2, style=filled, shape=circle]; 
+n5[label="dato5 "] 
+n2[label="dato2 "] 
+n7[label="dato7 "] 
+n4[label="dato4 "] 
+n5 -- n2 
+n5 -- n7 
+n5 -- n4 
+n2 -- n5 
+n7 -- n5 
+n7 -- n4 
+n4 -- n7 
+n4 -- n5 
+label = "grafo";
+}
+}
