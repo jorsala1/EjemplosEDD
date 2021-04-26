@@ -1,0 +1,118 @@
+{
+    "Datos": [
+        {
+            "Indice": "A",
+            "Departamentos": [
+                {
+                    "Nombre": "GPS y navegacion",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Aranda, Aparicio y Navarro Asociados",
+                            "Descripcion": "Sint quaerat sint et doloremque consectetur illum.",
+                            "Contacto": "960.764.908",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/nightlife"
+                        },
+                        {
+                            "Nombre": "Arriaga y Dueñas",
+                            "Descripcion": "Laborum nesciunt adipisci aut dolorem harum aut maiores et.",
+                            "Contacto": "921890217",
+                            "Calificacion": 1,
+                            "Logo": "http://placeimg.com/640/480/nature"
+                        },
+                        {
+                            "Nombre": "Aguilera, Oquendo y Ferrer Asociados",
+                            "Descripcion": "Ipsa quaerat quas quis et sunt quia aut voluptatem.",
+                            "Contacto": "990280160",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/sports"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Amazon Music",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Aranda, Aparicio y Navarro Asociados",
+                            "Descripcion": "Voluptas nostrum amet.",
+                            "Contacto": "976-889-995",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/city"
+                        },
+                        {
+                            "Nombre": "Arriaga y Dueñas",
+                            "Descripcion": "Et quia voluptas ut quisquam harum minus dolorem omnis.",
+                            "Contacto": "901 644 965",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/animals"
+                        },
+                        {
+                            "Nombre": "Aguilera, Oquendo y Ferrer Asociados",
+                            "Descripcion": "Voluptatem expedita eum voluptas reiciendis hic quae.",
+                            "Contacto": "913-939-715",
+                            "Calificacion": 2,
+                            "Logo": "http://placeimg.com/640/480/food"
+                        },
+                        {
+                            "Nombre": "Arredondo Duarte S.A.",
+                            "Descripcion": "Rem est dolores sit.",
+                            "Contacto": "953-764-741",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/food"
+                        },
+                        {
+                            "Nombre": "Arias, Lucio y Martínez Asociados",
+                            "Descripcion": "Temporibus est voluptate dolores in recusandae in id.",
+                            "Contacto": "912-150-202",
+                            "Calificacion": 5,
+                            "Logo": "http://placeimg.com/640/480/cats"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "B",
+            "Departamentos": [
+                {
+                    "Nombre": "GPS y navegacion",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Banda e Hijos",
+                            "Descripcion": "Neque non accusantium sit qui autem.",
+                            "Contacto": "979 660 008",
+                            "Calificacion": 1,
+                            "Logo": "http://placeimg.com/640/480/fashion"
+                        },
+                        {
+                            "Nombre": "Baca Jasso S.L.",
+                            "Descripcion": "Ullam est corporis doloremque saepe iure quam laborum et.",
+                            "Contacto": "982752937",
+                            "Calificacion": 3,
+                            "Logo": "http://placeimg.com/640/480/sports"
+                        },
+                        {
+                            "Nombre": "Bernal, Pelayo y Delafuente Asociados",
+                            "Descripcion": "Molestiae dolore repellendus qui saepe.",
+                            "Contacto": "942-486-431",
+                            "Calificacion": 3,
+                            "Logo": "http://placeimg.com/640/480/food"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Amazon Music",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Banda e Hijos",
+                            "Descripcion": "Quis rerum voluptatum sed minima saepe.",
+                            "Contacto": "922-443-907",
+                            "Calificacion": 5,
+                            "Logo": "http://placeimg.com/640/480/abstract"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

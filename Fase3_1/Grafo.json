@@ -1,0 +1,718 @@
+{
+    "Nodos": [
+        {
+            "Nombre": "Mirage voyage",
+            "Enlaces": [
+                {
+                    "Nombre": "Gauntlet",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Gauntlet",
+            "Enlaces": [
+                {
+                    "Nombre": "Salvage",
+                    "Distancia": 6
+                },
+                {
+                    "Nombre": "Airbase",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "Salvage",
+            "Enlaces": [
+                {
+                    "Nombre": "Water treatment",
+                    "Distancia": 12
+                },
+                {
+                    "Nombre": "Market",
+                    "Distancia": 8
+                }
+            ]
+        },
+        {
+            "Nombre": "Water treatment",
+            "Enlaces": [
+                {
+                    "Nombre": "Repulsor",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Market",
+                    "Distancia": 3
+                }
+            ]
+        },
+        {
+            "Nombre": "Repulsor",
+            "Enlaces": [
+                {
+                    "Nombre": "Hydro dam",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "Market",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Hydro dam",
+            "Enlaces": [
+                {
+                    "Nombre": "The cage",
+                    "Distancia": 13
+                },
+                {
+                    "Nombre": "Labs",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Swamps",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Market",
+            "Enlaces": [
+                {
+                    "Nombre": "Bunker",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Bunker",
+            "Enlaces": [
+                {
+                    "Nombre": "Salvage",
+                    "Distancia": 12
+                },
+                {
+                    "Nombre": "Airbase",
+                    "Distancia": 20
+                }
+            ]
+        },
+        {
+            "Nombre": "Airbase",
+            "Enlaces": [
+                {
+                    "Nombre": "Runoff",
+                    "Distancia": 6
+                },
+                {
+                    "Nombre": "The pit",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Runoff",
+            "Enlaces": [
+                {
+                    "Nombre": "The pit",
+                    "Distancia": 4
+                },
+                {
+                    "Nombre": "Spotted lake",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "The pit",
+            "Enlaces": [
+                {
+                    "Nombre": "Bunker",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "Spotted lake",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Containment",
+                    "Distancia": 2
+                }
+            ]
+        },
+        {
+            "Nombre": "Containment",
+            "Enlaces": [
+                {
+                    "Nombre": "Bunker",
+                    "Distancia": 16
+                },
+                {
+                    "Nombre": "The cage",
+                    "Distancia": 24
+                },
+                {
+                    "Nombre": "Artillery",
+                    "Distancia": 15
+                },
+                {
+                    "Nombre": "Capacitor",
+                    "Distancia": 36
+                }
+            ]
+        },
+        {
+            "Nombre": "The cage",
+            "Enlaces": [
+                {
+                    "Nombre": "Labs",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "Capacitor",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "Labs",
+            "Enlaces": [
+                {
+                    "Nombre": "Swamps",
+                    "Distancia": 2
+                },
+                {
+                    "Nombre": "Capacitor",
+                    "Distancia": 8
+                }
+            ]
+        },
+        {
+            "Nombre": "Capacitor",
+            "Enlaces": [
+                {
+                    "Nombre": "The rig",
+                    "Distancia": 18
+                },
+                {
+                    "Nombre": "Broken relay",
+                    "Distancia": 4
+                }
+            ]
+        },
+        {
+            "Nombre": "Swamps",
+            "Enlaces": [
+                {
+                    "Nombre": "The rig",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "Capacitor",
+                    "Distancia": 16
+                }
+            ]
+        },
+        {
+            "Nombre": "Broken relay",
+            "Enlaces": [
+                {
+                    "Nombre": "Artillery",
+                    "Distancia": 7
+                }
+            ]
+        },
+        {
+            "Nombre": "Artillery",
+            "Enlaces": [
+                {
+                    "Nombre": "Crash site",
+                    "Distancia": 9
+                }
+            ]
+        },
+        {
+            "Nombre": "Crash site",
+            "Enlaces": [
+                {
+                    "Nombre": "Spotted lake",
+                    "Distancia": 8
+                }
+            ]
+        },
+        {
+            "Nombre": "Spotted lake",
+            "Enlaces": [
+                {
+                    "Nombre": "Containment",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "The rig",
+            "Enlaces": [
+                {
+                    "Nombre": "Broken relay",
+                    "Distancia": 6
+                }
+            ]
+        },
+        {
+            "Nombre": "Eliseo",
+            "Enlaces": [
+                {
+                    "Nombre": "Hidroponia",
+                    "Distancia": 20
+                },
+                {
+                    "Nombre": "Fincas",
+                    "Distancia": 15
+                },
+                {
+                    "Nombre": "Oasis",
+                    "Distancia": 7
+                }
+            ]
+        },
+        {
+            "Nombre": "Hidroponia",
+            "Enlaces": [
+                {
+                    "Nombre": "Plaza de los bonsais",
+                    "Distancia": 8
+                },
+                {
+                    "Nombre": "Fincas",
+                    "Distancia": 10
+                },
+                {
+                    "Nombre": "Matriz solar",
+                    "Distancia": 50
+                }
+            ]
+        },
+        {
+            "Nombre": "Plaza de los bonsais",
+            "Enlaces": [
+                {
+                    "Nombre": "Matriz solar",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Matriz solar",
+            "Enlaces": [
+                {
+                    "Nombre": "Laboratorios Hammond",
+                    "Distancia": 12
+                },
+                {
+                    "Nombre": "Torres de cultivo",
+                    "Distancia": 20
+                },
+                {
+                    "Nombre": "Canon orbital",
+                    "Distancia": 7
+                }
+            ]
+        },
+        {
+            "Nombre": "Canon orbital",
+            "Enlaces": [
+                {
+                    "Nombre": "Torres de cultivo",
+                    "Distancia": 7
+                }
+            ]
+        },
+        {
+            "Nombre": "Torres de cultivo",
+            "Enlaces": [
+                {
+                    "Nombre": "Jardines",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Jardines",
+            "Enlaces": [
+                {
+                    "Nombre": "Almacen de energia",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Brecha",
+                    "Distancia": 14
+                }
+            ]
+        },
+        {
+            "Nombre": "Laboratorios Hammond",
+            "Enlaces": [
+                {
+                    "Nombre": "Almacen de energia",
+                    "Distancia": 13
+                },
+                {
+                    "Nombre": "Fincas",
+                    "Distancia": 14
+                },
+                {
+                    "Nombre": "Turbina",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Fincas",
+            "Enlaces": [
+                {
+                    "Nombre": "Oasis",
+                    "Distancia": 6
+                },
+                {
+                    "Nombre": "Turbina",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Oasis",
+            "Enlaces": [
+                {
+                    "Nombre": "Transportador",
+                    "Distancia": 8
+                },
+                {
+                    "Nombre": "Turbina",
+                    "Distancia": 18
+                }
+            ]
+        },
+        {
+            "Nombre": "Turbina",
+            "Enlaces": [
+                {
+                    "Nombre": "Red electrica",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Almacen de energia",
+                    "Distancia": 12
+                },
+                {
+                    "Nombre": "Muelles",
+                    "Distancia": 20
+                }
+            ]
+        },
+        {
+            "Nombre": "Transportador",
+            "Enlaces": [
+                {
+                    "Nombre": "Muelles",
+                    "Distancia": 6
+                }
+            ]
+        },
+        {
+            "Nombre": "Muelles",
+            "Enlaces": [
+                {
+                    "Nombre": "Red electrica",
+                    "Distancia": 9
+                },
+                {
+                    "Nombre": "Brecha",
+                    "Distancia": 20
+                }
+            ]
+        },
+        {
+            "Nombre": "Brecha",
+            "Enlaces": [
+                {
+                    "Nombre": "Almacen de energia",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Red electrica",
+            "Enlaces": [
+                {
+                    "Nombre": "Brecha",
+                    "Distancia": 9
+                }
+            ]
+        },
+        {
+            "Nombre": "Almacen de energia",
+            "Enlaces": [
+                {
+                    "Nombre": "Red electrica",
+                    "Distancia": 13
+                }
+            ]
+        },
+        {
+            "Nombre": "Skyhook",
+            "Enlaces": [
+                {
+                    "Nombre": "Fragment west",
+                    "Distancia": 30
+                },
+                {
+                    "Nombre": "Drill site",
+                    "Distancia": 10
+                },
+                {
+                    "Nombre": "Lava fissure",
+                    "Distancia": 15
+                },
+                {
+                    "Nombre": "Survey camp",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Drill site",
+            "Enlaces": [
+                {
+                    "Nombre": "The train yard",
+                    "Distancia": 8
+                },
+                {
+                    "Nombre": "Lava fissure",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "Fragment west",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Lava fissure",
+            "Enlaces": [
+                {
+                    "Nombre": "The train yard",
+                    "Distancia": 15
+                },
+                {
+                    "Nombre": "Mirage voyage2",
+                    "Distancia": 8
+                }
+            ]
+        },
+        {
+            "Nombre": "Mirage voyage2",
+            "Enlaces": [
+                {
+                    "Nombre": "Thermal station",
+                    "Distancia": 14
+                },
+                {
+                    "Nombre": "Harvester",
+                    "Distancia": 25
+                }
+            ]
+        },
+        {
+            "Nombre": "The train yard",
+            "Enlaces": [
+                {
+                    "Nombre": "Harvester",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Fragment east",
+                    "Distancia": 14
+                }
+            ]
+        },
+        {
+            "Nombre": "Fragment west",
+            "Enlaces": [
+                {
+                    "Nombre": "Fragment east",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "The epicenter",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Survey camp",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Fragment east",
+            "Enlaces": [
+                {
+                    "Nombre": "The epicenter",
+                    "Distancia": 9
+                },
+                {
+                    "Nombre": "Overlook",
+                    "Distancia": 16
+                },
+                {
+                    "Nombre": "The geyser",
+                    "Distancia": 20
+                }
+            ]
+        },
+        {
+            "Nombre": "Survey camp",
+            "Enlaces": [
+                {
+                    "Nombre": "The epicenter",
+                    "Distancia": 8
+                },
+                {
+                    "Nombre": "Refinery",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "Refinery",
+            "Enlaces": [
+                {
+                    "Nombre": "Overlook",
+                    "Distancia": 15
+                },
+                {
+                    "Nombre": "The epicenter",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "The epicenter",
+            "Enlaces": [
+                {
+                    "Nombre": "Overlook",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Overlook",
+            "Enlaces": [
+                {
+                    "Nombre": "The geyser",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Thermal station",
+            "Enlaces": [
+                {
+                    "Nombre": "Harvester",
+                    "Distancia": 8
+                },
+                {
+                    "Nombre": "The tree",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "Harvester",
+            "Enlaces": [
+                {
+                    "Nombre": "Sorting factory",
+                    "Distancia": 6
+                },
+                {
+                    "Nombre": "The tree",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "The tree",
+            "Enlaces": [
+                {
+                    "Nombre": "Sorting factory",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Sorting factory",
+            "Enlaces": [
+                {
+                    "Nombre": "The dome",
+                    "Distancia": 18
+                },
+                {
+                    "Nombre": "Lava city",
+                    "Distancia": 8
+                },
+                {
+                    "Nombre": "The geyser",
+                    "Distancia": 16
+                }
+            ]
+        },
+        {
+            "Nombre": "Lava city",
+            "Enlaces": [
+                {
+                    "Nombre": "The geyser",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "The dome",
+            "Enlaces": [
+                {
+                    "Nombre": "Lava city",
+                    "Distancia": 4
+                }
+            ]
+        },
+        {
+            "Nombre": "The geyser",
+            "Enlaces": [
+                {
+                    "Nombre": "Harvester",
+                    "Distancia": 30
+                }
+            ]
+        },
+        {
+            "Nombre": "Portal de Union",
+            "Enlaces": [
+                {
+                    "Nombre": "Water treatment",
+                    "Distancia": 1
+                },
+                {
+                    "Nombre": "Plaza de los bonsais",
+                    "Distancia": 1
+                },
+                {
+                    "Nombre": "The dome",
+                    "Distancia": 1
+                }
+            ]
+        }
+    ],
+    "PosicionInicialRobot": "Transportador",
+    "Entrega": "Mirage voyage2"
+}

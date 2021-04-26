@@ -1,0 +1,379 @@
+{
+    "Pedidos": [
+        {
+            "Fecha": "08-05-1997",
+            "Tienda": "Baca Jasso S.L.",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 3,
+            "Cliente": 7913235243699,
+            "Productos": [
+                {
+                    "Codigo": 837
+                },
+                {
+                    "Codigo": 837
+                },
+                {
+                    "Codigo": 845
+                },
+                {
+                    "Codigo": 839
+                },
+                {
+                    "Codigo": 834
+                },
+                {
+                    "Codigo": 830
+                },
+                {
+                    "Codigo": 836
+                },
+                {
+                    "Codigo": 846
+                },
+                {
+                    "Codigo": 833
+                },
+                {
+                    "Codigo": 843
+                },
+                {
+                    "Codigo": 841
+                },
+                {
+                    "Codigo": 841
+                }
+            ]
+        },
+        {
+            "Fecha": "18-03-1997",
+            "Tienda": "Arias, Lucio y Martínez Asociados",
+            "Departamento": "Amazon Music",
+            "Calificacion": 5,
+            "Cliente": 6337279296374,
+            "Productos": [
+                {
+                    "Codigo": 974
+                },
+                {
+                    "Codigo": 971
+                },
+                {
+                    "Codigo": 973
+                },
+                {
+                    "Codigo": 976
+                },
+                {
+                    "Codigo": 968
+                },
+                {
+                    "Codigo": 960
+                },
+                {
+                    "Codigo": 970
+                },
+                {
+                    "Codigo": 966
+                },
+                {
+                    "Codigo": 970
+                },
+                {
+                    "Codigo": 975
+                },
+                {
+                    "Codigo": 967
+                }
+            ]
+        },
+        {
+            "Fecha": "25-01-1997",
+            "Tienda": "Baca Jasso S.L.",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 3,
+            "Cliente": 6337279296374,
+            "Productos": [
+                {
+                    "Codigo": 833
+                },
+                {
+                    "Codigo": 836
+                },
+                {
+                    "Codigo": 829
+                },
+                {
+                    "Codigo": 831
+                }
+            ]
+        },
+        {
+            "Fecha": "08-04-1997",
+            "Tienda": "Arriaga y Dueñas",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 1,
+            "Cliente": 4556984858539,
+            "Productos": [
+                {
+                    "Codigo": 251
+                },
+                {
+                    "Codigo": 255
+                },
+                {
+                    "Codigo": 247
+                }
+            ]
+        },
+        {
+            "Fecha": "01-01-1997",
+            "Tienda": "Arriaga y Dueñas",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 1,
+            "Cliente": 4515348769345,
+            "Productos": [
+                {
+                    "Codigo": 251
+                },
+                {
+                    "Codigo": 248
+                },
+                {
+                    "Codigo": 245
+                },
+                {
+                    "Codigo": 243
+                },
+                {
+                    "Codigo": 249
+                },
+                {
+                    "Codigo": 253
+                }
+            ]
+        },
+        {
+            "Fecha": "14-08-1997",
+            "Tienda": "Arriaga y Dueñas",
+            "Departamento": "Amazon Music",
+            "Calificacion": 4,
+            "Cliente": 3163518389391,
+            "Productos": [
+                {
+                    "Codigo": 253
+                }
+            ]
+        },
+        {
+            "Fecha": "23-02-1997",
+            "Tienda": "Arredondo Duarte S.A.",
+            "Departamento": "Amazon Music",
+            "Calificacion": 4,
+            "Cliente": 4918878656113,
+            "Productos": [
+                {
+                    "Codigo": 302
+                },
+                {
+                    "Codigo": 307
+                },
+                {
+                    "Codigo": 309
+                }
+            ]
+        },
+        {
+            "Fecha": "14-02-1997",
+            "Tienda": "Banda e Hijos",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 1,
+            "Cliente": 2397977697528,
+            "Productos": [
+                {
+                    "Codigo": 276
+                },
+                {
+                    "Codigo": 286
+                }
+            ]
+        },
+        {
+            "Fecha": "21-04-1997",
+            "Tienda": "Arriaga y Dueñas",
+            "Departamento": "Amazon Music",
+            "Calificacion": 4,
+            "Cliente": 1973526586315,
+            "Productos": [
+                {
+                    "Codigo": 253
+                },
+                {
+                    "Codigo": 245
+                },
+                {
+                    "Codigo": 253
+                },
+                {
+                    "Codigo": 247
+                },
+                {
+                    "Codigo": 253
+                },
+                {
+                    "Codigo": 252
+                },
+                {
+                    "Codigo": 248
+                },
+                {
+                    "Codigo": 252
+                },
+                {
+                    "Codigo": 244
+                },
+                {
+                    "Codigo": 248
+                },
+                {
+                    "Codigo": 248
+                },
+                {
+                    "Codigo": 249
+                }
+            ]
+        },
+        {
+            "Fecha": "22-01-1997",
+            "Tienda": "Aguilera, Oquendo y Ferrer Asociados",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 4,
+            "Cliente": 3719448425919,
+            "Productos": [
+                {
+                    "Codigo": 456
+                },
+                {
+                    "Codigo": 453
+                },
+                {
+                    "Codigo": 460
+                }
+            ]
+        },
+        {
+            "Fecha": "07-05-1997",
+            "Tienda": "Banda e Hijos",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 1,
+            "Cliente": 8616272612388,
+            "Productos": [
+                {
+                    "Codigo": 270
+                },
+                {
+                    "Codigo": 280
+                },
+                {
+                    "Codigo": 279
+                },
+                {
+                    "Codigo": 272
+                },
+                {
+                    "Codigo": 275
+                },
+                {
+                    "Codigo": 276
+                }
+            ]
+        },
+        {
+            "Fecha": "18-09-1997",
+            "Tienda": "Aguilera, Oquendo y Ferrer Asociados",
+            "Departamento": "Amazon Music",
+            "Calificacion": 2,
+            "Cliente": 9783989826944,
+            "Productos": [
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 334
+                }
+            ]
+        },
+        {
+            "Fecha": "22-06-1997",
+            "Tienda": "Bernal, Pelayo y Delafuente Asociados",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 3,
+            "Cliente": 3719448425919,
+            "Productos": [
+                {
+                    "Codigo": 252
+                },
+                {
+                    "Codigo": 245
+                },
+                {
+                    "Codigo": 245
+                },
+                {
+                    "Codigo": 252
+                },
+                {
+                    "Codigo": 244
+                }
+            ]
+        },
+        {
+            "Fecha": "05-05-1997",
+            "Tienda": "Banda e Hijos",
+            "Departamento": "GPS y navegacion",
+            "Calificacion": 1,
+            "Cliente": 5553164513391,
+            "Productos": [
+                {
+                    "Codigo": 269
+                },
+                {
+                    "Codigo": 275
+                },
+                {
+                    "Codigo": 271
+                },
+                {
+                    "Codigo": 281
+                },
+                {
+                    "Codigo": 281
+                },
+                {
+                    "Codigo": 276
+                },
+                {
+                    "Codigo": 284
+                },
+                {
+                    "Codigo": 277
+                },
+                {
+                    "Codigo": 286
+                },
+                {
+                    "Codigo": 277
+                },
+                {
+                    "Codigo": 277
+                },
+                {
+                    "Codigo": 279
+                },
+                {
+                    "Codigo": 277
+                }
+            ]
+        }
+    ]
+}
