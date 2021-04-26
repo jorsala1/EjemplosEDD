@@ -1,0 +1,196 @@
+{
+    "Pedidos": [
+        {
+            "Fecha": "25-10-1997",
+            "Tienda": "Burgos, Granado y Rael Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 2,
+            "Cliente": 2593898373463,
+            "Productos": [
+                {
+                    "Codigo": 293
+                }
+            ]
+        },
+        {
+            "Fecha": "17-08-1997",
+            "Tienda": "Baeza S.L.",
+            "Departamento": "Electrónicos",
+            "Calificacion": 4,
+            "Cliente": 1833375761313,
+            "Productos": [
+                {
+                    "Codigo": 461
+                },
+                {
+                    "Codigo": 461
+                },
+                {
+                    "Codigo": 460
+                }
+            ]
+        },
+        {
+            "Fecha": "10-11-1997",
+            "Tienda": "Arteaga y Ponce",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Cliente": 6742735157919,
+            "Productos": [
+                {
+                    "Codigo": 402
+                },
+                {
+                    "Codigo": 401
+                },
+                {
+                    "Codigo": 401
+                },
+                {
+                    "Codigo": 402
+                },
+                {
+                    "Codigo": 401
+                }
+            ]
+        },
+        {
+            "Fecha": "07-04-1997",
+            "Tienda": "Bravo, Amador y Mota Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 5,
+            "Cliente": 6742735157919,
+            "Productos": [
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 339
+                },
+                {
+                    "Codigo": 339
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 339
+                },
+                {
+                    "Codigo": 339
+                },
+                {
+                    "Codigo": 339
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 340
+                },
+                {
+                    "Codigo": 339
+                }
+            ]
+        },
+        {
+            "Fecha": "04-05-1997",
+            "Tienda": "Burgos, Granado y Rael Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 2,
+            "Cliente": 2593898373463,
+            "Productos": [
+                {
+                    "Codigo": 291
+                },
+                {
+                    "Codigo": 290
+                },
+                {
+                    "Codigo": 292
+                }
+            ]
+        },
+        {
+            "Fecha": "17-12-1997",
+            "Tienda": "Adorno y Gaytán",
+            "Departamento": "Equipaje",
+            "Calificacion": 4,
+            "Cliente": 1833375761313,
+            "Productos": [
+                {
+                    "Codigo": 517
+                },
+                {
+                    "Codigo": 519
+                },
+                {
+                    "Codigo": 516
+                },
+                {
+                    "Codigo": 519
+                },
+                {
+                    "Codigo": 516
+                },
+                {
+                    "Codigo": 519
+                },
+                {
+                    "Codigo": 519
+                },
+                {
+                    "Codigo": 519
+                }
+            ]
+        },
+        {
+            "Fecha": "17-07-1997",
+            "Tienda": "Aparicio y Adorno",
+            "Departamento": "Equipaje",
+            "Calificacion": 4,
+            "Cliente": 6345923358448,
+            "Productos": [
+                {
+                    "Codigo": 146
+                },
+                {
+                    "Codigo": 145
+                },
+                {
+                    "Codigo": 146
+                },
+                {
+                    "Codigo": 145
+                },
+                {
+                    "Codigo": 146
+                },
+                {
+                    "Codigo": 146
+                },
+                {
+                    "Codigo": 146
+                },
+                {
+                    "Codigo": 145
+                },
+                {
+                    "Codigo": 146
+                }
+            ]
+        }
+    ]
+}

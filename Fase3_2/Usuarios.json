@@ -1,0 +1,81 @@
+{
+    "Usuarios": [
+        {
+            "Dpi": 2571935571794,
+            "Nombre": "Esperanza Saldivar",
+            "Correo": "adela.rodarte@yahoo.com",
+            "Password": "leyuyobimo",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 1667238847611,
+            "Nombre": "Marco Antonio Verduzco",
+            "Correo": "csargranado11@hotmail.com",
+            "Password": "weqoxepape",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 4235165872453,
+            "Nombre": "Jaime Olivo",
+            "Correo": "rebecatovar58@gmail.com",
+            "Password": "vafuhahudi",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 7671786397926,
+            "Nombre": "Soledad Razo",
+            "Correo": "juancaraballo61@gmail.com",
+            "Password": "gegedeseci",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 6589943541773,
+            "Nombre": "Florencia Calderón",
+            "Correo": "mariomireles28@yahoo.com",
+            "Password": "xuvivehamu",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 4167852718895,
+            "Nombre": "Silvia Cotto",
+            "Correo": "marcos.sarabia19@gmail.com",
+            "Password": "lulizuxici",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 6833136516241,
+            "Nombre": "Nicolás Rodríguez",
+            "Correo": "ricardocarrion12@hotmail.com",
+            "Password": "saqiyupewo",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 8747896834648,
+            "Nombre": "Isabela Luevano",
+            "Correo": "gustavo.garay@gmail.com",
+            "Password": "mulizolabi",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 7536596228952,
+            "Nombre": "Hugo Segovia",
+            "Correo": "micaela.gaona@yahoo.com",
+            "Password": "yeyiropipa",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 7548642741167,
+            "Nombre": "Alfonso Carbajal",
+            "Correo": "esteban.vlez@hotmail.com",
+            "Password": "garorixalo",
+            "Cuenta": "Usuario"
+        },
+        {
+            "Dpi": 5191846322672,
+            "Nombre": "Lola Correa",
+            "Correo": "ins02@yahoo.com",
+            "Password": "dejakehiva",
+            "Cuenta": "Usuario"
+        }
+    ]
+}

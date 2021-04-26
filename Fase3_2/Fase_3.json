@@ -1,0 +1,139 @@
+{
+    "Datos": [
+        {
+            "Indice": "A",
+            "Departamentos": [
+                {
+                    "Nombre": "Equipaje",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Adorno y Gaytán",
+                            "Descripcion": "Consectetur magnam quia deleniti ipsum voluptatem.",
+                            "Contacto": "980955868",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/nightlife"
+                        },
+                        {
+                            "Nombre": "Arteaga y Ponce",
+                            "Descripcion": "Animi corrupti ad deleniti est voluptas et magni perferendis autem.",
+                            "Contacto": "900-905-076",
+                            "Calificacion": 5,
+                            "Logo": "http://placeimg.com/640/480/business"
+                        },
+                        {
+                            "Nombre": "Acuña, Estévez y Olmos Asociados",
+                            "Descripcion": "Doloribus aut ea molestiae dolore autem eos.",
+                            "Contacto": "954-978-172",
+                            "Calificacion": 2,
+                            "Logo": "http://placeimg.com/640/480/technics"
+                        },
+                        {
+                            "Nombre": "Aparicio y Adorno",
+                            "Descripcion": "Et et recusandae.",
+                            "Contacto": "952 501 343",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/fashion"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Electrónicos",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Adorno y Gaytán",
+                            "Descripcion": "Laborum provident et velit ipsum ipsam in.",
+                            "Contacto": "922.600.047",
+                            "Calificacion": 5,
+                            "Logo": "http://placeimg.com/640/480/cats"
+                        },
+                        {
+                            "Nombre": "Arteaga y Ponce",
+                            "Descripcion": "Molestiae quia ut praesentium harum totam aperiam.",
+                            "Contacto": "903516725",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/technics"
+                        },
+                        {
+                            "Nombre": "Acuña, Estévez y Olmos Asociados",
+                            "Descripcion": "Consequuntur deserunt officiis eos.",
+                            "Contacto": "977213916",
+                            "Calificacion": 5,
+                            "Logo": "http://placeimg.com/640/480/food"
+                        },
+                        {
+                            "Nombre": "Aparicio y Adorno",
+                            "Descripcion": "Quia incidunt autem cumque.",
+                            "Contacto": "923 179 118",
+                            "Calificacion": 1,
+                            "Logo": "http://placeimg.com/640/480/nature"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Indice": "B",
+            "Departamentos": [
+                {
+                    "Nombre": "Equipaje",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Bravo, Amador y Mota Asociados",
+                            "Descripcion": "Minus ut nemo voluptate.",
+                            "Contacto": "961-818-432",
+                            "Calificacion": 3,
+                            "Logo": "http://placeimg.com/640/480/nature"
+                        },
+                        {
+                            "Nombre": "Benítez Rivas e Hijos",
+                            "Descripcion": "Consequuntur fugiat excepturi labore dolores.",
+                            "Contacto": "983519138",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/abstract"
+                        }
+                    ]
+                },
+                {
+                    "Nombre": "Electrónicos",
+                    "Tiendas": [
+                        {
+                            "Nombre": "Bravo, Amador y Mota Asociados",
+                            "Descripcion": "Quia dolor sit.",
+                            "Contacto": "954.166.792",
+                            "Calificacion": 5,
+                            "Logo": "http://placeimg.com/640/480/cats"
+                        },
+                        {
+                            "Nombre": "Benítez Rivas e Hijos",
+                            "Descripcion": "Delectus et facilis velit ut minima maxime praesentium libero.",
+                            "Contacto": "944-731-816",
+                            "Calificacion": 3,
+                            "Logo": "http://placeimg.com/640/480/people"
+                        },
+                        {
+                            "Nombre": "Baeza S.L.",
+                            "Descripcion": "Ullam aliquid occaecati aspernatur.",
+                            "Contacto": "977539090",
+                            "Calificacion": 4,
+                            "Logo": "http://placeimg.com/640/480/fashion"
+                        },
+                        {
+                            "Nombre": "Botello, Robledo y Solís Asociados",
+                            "Descripcion": "Itaque dolor iusto minus quod magnam nam dolor ullam est.",
+                            "Contacto": "928.932.440",
+                            "Calificacion": 3,
+                            "Logo": "http://placeimg.com/640/480/sports"
+                        },
+                        {
+                            "Nombre": "Burgos, Granado y Rael Asociados",
+                            "Descripcion": "Eum explicabo ad et ut ad voluptas sed.",
+                            "Contacto": "990-347-331",
+                            "Calificacion": 2,
+                            "Logo": "http://placeimg.com/640/480/nature"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

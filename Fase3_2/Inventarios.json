@@ -1,0 +1,460 @@
+{
+    "Inventarios": [
+        {
+            "Tienda": "Adorno y Gaytán",
+            "Departamento": "Equipaje",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Nombre": "Sabrosa Acero Pelota",
+                    "Codigo": 517,
+                    "Descripcion": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+                    "Precio": 880,
+                    "Cantidad": 437,
+                    "Imagen": "http://placeimg.com/640/480/people",
+                    "Almacenamiento": "Brecha"
+                },
+                {
+                    "Nombre": "Artesanal Cotton Teclado",
+                    "Codigo": 516,
+                    "Descripcion": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+                    "Precio": 839,
+                    "Cantidad": 309,
+                    "Imagen": "http://placeimg.com/640/480/fashion",
+                    "Almacenamiento": "Survey camp"
+                },
+                {
+                    "Nombre": "Ergonómico Soft Tuna",
+                    "Codigo": 519,
+                    "Descripcion": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+                    "Precio": 957,
+                    "Cantidad": 440,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Artillery"
+                },
+                {
+                    "Nombre": "Refinado Granito Pizza",
+                    "Codigo": 518,
+                    "Descripcion": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                    "Precio": 115,
+                    "Cantidad": 492,
+                    "Imagen": "http://placeimg.com/640/480/animals",
+                    "Almacenamiento": "Refinery"
+                }
+            ]
+        },
+        {
+            "Tienda": "Arteaga y Ponce",
+            "Departamento": "Equipaje",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Nombre": "Elegante Acero Auto",
+                    "Codigo": 402,
+                    "Descripcion": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+                    "Precio": 229,
+                    "Cantidad": 409,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Containment"
+                },
+                {
+                    "Nombre": "Inteligente Hormigón Bike",
+                    "Codigo": 401,
+                    "Descripcion": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                    "Precio": 366,
+                    "Cantidad": 233,
+                    "Imagen": "http://placeimg.com/640/480/cats",
+                    "Almacenamiento": "Red electrica"
+                }
+            ]
+        },
+        {
+            "Tienda": "Acuña, Estévez y Olmos Asociados",
+            "Departamento": "Equipaje",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Nombre": "Genérica Plástico Pizza",
+                    "Codigo": 829,
+                    "Descripcion": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+                    "Precio": 867,
+                    "Cantidad": 404,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Fragment west"
+                },
+                {
+                    "Nombre": "Práctica Fresco Queso",
+                    "Codigo": 830,
+                    "Descripcion": "The Football Is Good For Training And Recreational Purposes",
+                    "Precio": 416,
+                    "Cantidad": 311,
+                    "Imagen": "http://placeimg.com/640/480/cats",
+                    "Almacenamiento": "The train yard"
+                }
+            ]
+        },
+        {
+            "Tienda": "Aparicio y Adorno",
+            "Departamento": "Equipaje",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Nombre": "Pequeño Frozen Guantes",
+                    "Codigo": 145,
+                    "Descripcion": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                    "Precio": 844,
+                    "Cantidad": 240,
+                    "Imagen": "http://placeimg.com/640/480/nature",
+                    "Almacenamiento": "Eliseo"
+                },
+                {
+                    "Nombre": "Increíble Caucho Jabón",
+                    "Codigo": 146,
+                    "Descripcion": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                    "Precio": 239,
+                    "Cantidad": 310,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Survey camp"
+                }
+            ]
+        },
+        {
+            "Tienda": "Adorno y Gaytán",
+            "Departamento": "Electrónicos",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Nombre": "Increíble Caucho Mesa",
+                    "Codigo": 967,
+                    "Descripcion": "The Football Is Good For Training And Recreational Purposes",
+                    "Precio": 730,
+                    "Cantidad": 94,
+                    "Imagen": "http://placeimg.com/640/480/people",
+                    "Almacenamiento": "Water treatment"
+                },
+                {
+                    "Nombre": "Práctica Acero Computadora",
+                    "Codigo": 969,
+                    "Descripcion": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                    "Precio": 211,
+                    "Cantidad": 121,
+                    "Imagen": "http://placeimg.com/640/480/city",
+                    "Almacenamiento": "Spotted lake"
+                },
+                {
+                    "Nombre": "Licencia Caucho Pizza",
+                    "Codigo": 968,
+                    "Descripcion": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                    "Precio": 61,
+                    "Cantidad": 317,
+                    "Imagen": "http://placeimg.com/640/480/abstract",
+                    "Almacenamiento": "Salvage"
+                },
+                {
+                    "Nombre": "Pequeño Madera Toallas",
+                    "Codigo": 966,
+                    "Descripcion": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                    "Precio": 486,
+                    "Cantidad": 16,
+                    "Imagen": "http://placeimg.com/640/480/people",
+                    "Almacenamiento": "Overlook"
+                }
+            ]
+        },
+        {
+            "Tienda": "Arteaga y Ponce",
+            "Departamento": "Electrónicos",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Nombre": "Elegante Fresco Toallas",
+                    "Codigo": 960,
+                    "Descripcion": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                    "Precio": 114,
+                    "Cantidad": 246,
+                    "Imagen": "http://placeimg.com/640/480/nature",
+                    "Almacenamiento": "Canon orbital"
+                },
+                {
+                    "Nombre": "Artesanal Cotton Jabón",
+                    "Codigo": 959,
+                    "Descripcion": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+                    "Precio": 977,
+                    "Cantidad": 165,
+                    "Imagen": "http://placeimg.com/640/480/food",
+                    "Almacenamiento": "Jardines"
+                }
+            ]
+        },
+        {
+            "Tienda": "Acuña, Estévez y Olmos Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Nombre": "Refinado Granito Computadora",
+                    "Codigo": 262,
+                    "Descripcion": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+                    "Precio": 441,
+                    "Cantidad": 343,
+                    "Imagen": "http://placeimg.com/640/480/sports",
+                    "Almacenamiento": "Turbina"
+                },
+                {
+                    "Nombre": "Práctica Metal Pizza",
+                    "Codigo": 263,
+                    "Descripcion": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+                    "Precio": 223,
+                    "Cantidad": 173,
+                    "Imagen": "http://placeimg.com/640/480/city",
+                    "Almacenamiento": "Canon orbital"
+                }
+            ]
+        },
+        {
+            "Tienda": "Aparicio y Adorno",
+            "Departamento": "Electrónicos",
+            "Calificacion": 1,
+            "Productos": [
+                {
+                    "Nombre": "Hecho a mano Cotton Tocino",
+                    "Codigo": 884,
+                    "Descripcion": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+                    "Precio": 963,
+                    "Cantidad": 274,
+                    "Imagen": "http://placeimg.com/640/480/people",
+                    "Almacenamiento": "Plaza de los bonsais"
+                },
+                {
+                    "Nombre": "Increíble Acero Tuna",
+                    "Codigo": 882,
+                    "Descripcion": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                    "Precio": 1000,
+                    "Cantidad": 251,
+                    "Imagen": "http://placeimg.com/640/480/city",
+                    "Almacenamiento": "Harvester"
+                },
+                {
+                    "Nombre": "Rústico Soft Ensalada",
+                    "Codigo": 883,
+                    "Descripcion": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                    "Precio": 124,
+                    "Cantidad": 75,
+                    "Imagen": "http://placeimg.com/640/480/sports",
+                    "Almacenamiento": "Canon orbital"
+                }
+            ]
+        },
+        {
+            "Tienda": "Bravo, Amador y Mota Asociados",
+            "Departamento": "Equipaje",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Nombre": "Práctica Granito Mesa",
+                    "Codigo": 565,
+                    "Descripcion": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                    "Precio": 281,
+                    "Cantidad": 443,
+                    "Imagen": "http://placeimg.com/640/480/fashion",
+                    "Almacenamiento": "Lava city"
+                }
+            ]
+        },
+        {
+            "Tienda": "Benítez Rivas e Hijos",
+            "Departamento": "Equipaje",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Nombre": "Sin marca Cotton Pollo",
+                    "Codigo": 105,
+                    "Descripcion": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                    "Precio": 830,
+                    "Cantidad": 464,
+                    "Imagen": "http://placeimg.com/640/480/nature",
+                    "Almacenamiento": "Sorting factory"
+                },
+                {
+                    "Nombre": "Artesanal Metal Pollo",
+                    "Codigo": 104,
+                    "Descripcion": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+                    "Precio": 354,
+                    "Cantidad": 150,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Spotted lake"
+                }
+            ]
+        },
+        {
+            "Tienda": "Bravo, Amador y Mota Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 5,
+            "Productos": [
+                {
+                    "Nombre": "Genérica Hormigón Tuna",
+                    "Codigo": 339,
+                    "Descripcion": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+                    "Precio": 144,
+                    "Cantidad": 455,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Matriz solar"
+                },
+                {
+                    "Nombre": "Elegante Frozen Computadora",
+                    "Codigo": 340,
+                    "Descripcion": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                    "Precio": 294,
+                    "Cantidad": 14,
+                    "Imagen": "http://placeimg.com/640/480/nature",
+                    "Almacenamiento": "Laboratorios Hammond"
+                }
+            ]
+        },
+        {
+            "Tienda": "Benítez Rivas e Hijos",
+            "Departamento": "Electrónicos",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Nombre": "Licencia Frozen Pescado",
+                    "Codigo": 912,
+                    "Descripcion": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+                    "Precio": 89,
+                    "Cantidad": 151,
+                    "Imagen": "http://placeimg.com/640/480/transport",
+                    "Almacenamiento": "Broken relay"
+                },
+                {
+                    "Nombre": "Fantástico Soft Queso",
+                    "Codigo": 911,
+                    "Descripcion": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+                    "Precio": 197,
+                    "Cantidad": 462,
+                    "Imagen": "http://placeimg.com/640/480/business",
+                    "Almacenamiento": "Spotted lake"
+                },
+                {
+                    "Nombre": "Práctica Cotton Jabón",
+                    "Codigo": 910,
+                    "Descripcion": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+                    "Precio": 457,
+                    "Cantidad": 315,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Containment"
+                }
+            ]
+        },
+        {
+            "Tienda": "Baeza S.L.",
+            "Departamento": "Electrónicos",
+            "Calificacion": 4,
+            "Productos": [
+                {
+                    "Nombre": "Sin marca Frozen Embutidos",
+                    "Codigo": 461,
+                    "Descripcion": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                    "Precio": 759,
+                    "Cantidad": 302,
+                    "Imagen": "http://placeimg.com/640/480/nature",
+                    "Almacenamiento": "Hydro dam"
+                },
+                {
+                    "Nombre": "Ergonómico Caucho Pollo",
+                    "Codigo": 460,
+                    "Descripcion": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+                    "Precio": 567,
+                    "Cantidad": 378,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "The cage"
+                }
+            ]
+        },
+        {
+            "Tienda": "Botello, Robledo y Solís Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 3,
+            "Productos": [
+                {
+                    "Nombre": "Sin marca Madera Pantalones",
+                    "Codigo": 463,
+                    "Descripcion": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+                    "Precio": 138,
+                    "Cantidad": 117,
+                    "Imagen": "http://placeimg.com/640/480/food",
+                    "Almacenamiento": "Jardines"
+                },
+                {
+                    "Nombre": "Ergonómico Acero Guantes",
+                    "Codigo": 465,
+                    "Descripcion": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+                    "Precio": 389,
+                    "Cantidad": 258,
+                    "Imagen": "http://placeimg.com/640/480/sports",
+                    "Almacenamiento": "Muelles"
+                },
+                {
+                    "Nombre": "Elegante Caucho Jabón",
+                    "Codigo": 466,
+                    "Descripcion": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+                    "Precio": 954,
+                    "Cantidad": 475,
+                    "Imagen": "http://placeimg.com/640/480/abstract",
+                    "Almacenamiento": "Salvage"
+                },
+                {
+                    "Nombre": "Ergonómico Plástico Embutidos",
+                    "Codigo": 464,
+                    "Descripcion": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                    "Precio": 587,
+                    "Cantidad": 33,
+                    "Imagen": "http://placeimg.com/640/480/nature",
+                    "Almacenamiento": "The train yard"
+                }
+            ]
+        },
+        {
+            "Tienda": "Burgos, Granado y Rael Asociados",
+            "Departamento": "Electrónicos",
+            "Calificacion": 2,
+            "Productos": [
+                {
+                    "Nombre": "Artesanal Acero Queso",
+                    "Codigo": 291,
+                    "Descripcion": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+                    "Precio": 135,
+                    "Cantidad": 79,
+                    "Imagen": "http://placeimg.com/640/480/abstract",
+                    "Almacenamiento": "The geyser"
+                },
+                {
+                    "Nombre": "Inteligente Caucho Pantalones",
+                    "Codigo": 292,
+                    "Descripcion": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+                    "Precio": 693,
+                    "Cantidad": 232,
+                    "Imagen": "http://placeimg.com/640/480/nightlife",
+                    "Almacenamiento": "Salvage"
+                },
+                {
+                    "Nombre": "Increíble Granito Auto",
+                    "Codigo": 290,
+                    "Descripcion": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+                    "Precio": 694,
+                    "Cantidad": 391,
+                    "Imagen": "http://placeimg.com/640/480/people",
+                    "Almacenamiento": "The tree"
+                },
+                {
+                    "Nombre": "Increíble Soft Pizza",
+                    "Codigo": 293,
+                    "Descripcion": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+                    "Precio": 282,
+                    "Cantidad": 466,
+                    "Imagen": "http://placeimg.com/640/480/technics",
+                    "Almacenamiento": "The epicenter"
+                }
+            ]
+        }
+    ]
+}
