@@ -1,0 +1,256 @@
+{
+    "Nodos": [
+        {
+            "Nombre": "Mirage voyage",
+            "Enlaces": [
+                {
+                    "Nombre": "Gauntlet",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Gauntlet",
+            "Enlaces": [
+                {
+                    "Nombre": "Salvage",
+                    "Distancia": 6
+                },
+                {
+                    "Nombre": "Airbase",
+                    "Distancia": 5
+                }
+            ]
+        },
+        {
+            "Nombre": "Salvage",
+            "Enlaces": [
+                {
+                    "Nombre": "Water treatment",
+                    "Distancia": 12
+                },
+                {
+                    "Nombre": "Market",
+                    "Distancia": 8
+                }
+            ]
+        },
+        {
+            "Nombre": "Water treatment",
+            "Enlaces": [
+                {
+                    "Nombre": "Repulsor",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Market",
+                    "Distancia": 3
+                }
+            ]
+        },
+        {
+            "Nombre": "Repulsor",
+            "Enlaces": [
+                {
+                    "Nombre": "Hydro dam",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre": "Market",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Hydro dam",
+            "Enlaces": [
+                {
+                    "Nombre": "The cage",
+                    "Distancia": 13
+                },
+                {
+                    "Nombre": "Labs",
+                    "Distancia": 7
+                },
+                {
+                    "Nombre": "Swamps",
+                    "Distancia": 15
+                }
+            ]
+        },
+        {
+            "Nombre": "Market",
+            "Enlaces": [
+                {
+                    "Nombre": "Bunker",
+                    "Distancia": 10
+                }
+            ]
+        },
+        {
+            "Nombre": "Bunker",
+            "Enlaces": [
+                {
+                    "Nombre": "Salvage",
+                    "Distancia": 12
+                },
+                {
+                    "Nombre": "Airbase",
+                    "Distancia": 20
+                }
+            ]
+        },
+        {
+            "Nombre": "Airbase",
+            "Enlaces": [
+                {
+                    "Nombre": "Runoff",
+                    "Distancia": 6
+                },
+                {
+                    "Nombre": "The pit",
+                    "Distancia": 12
+                }
+            ]
+        },
+        {
+            "Nombre": "Runoff",
+            "Enlaces": [
+                {
+                    "Nombre": "The pit",
+                    "Distancia": 4
+                },
+                {
+                    "Nombre":"Spotted lake",
+                    "Distancia":15
+                }
+            ]
+        },
+        {
+            "Nombre": "The pit",
+            "Enlaces": [
+                {
+                    "Nombre": "Bunker",
+                    "Distancia": 5
+                },
+                {
+                    "Nombre":"Spotted lake",
+                    "Distancia":7
+                },
+                {
+                    "Nombre":"Containment",
+                    "Distancia":2
+                }
+            ]
+        },
+        {
+            "Nombre":"Containment",
+            "Enlaces":[
+                {
+                    "Nombre":"Bunker",
+                    "Distancia":16
+                },
+                {
+                    "Nombre":"The cage",
+                    "Distancia":24
+                },
+                {
+                    "Nombre":"Artillery",
+                    "Distancia":15
+                },
+                {
+                    "Nombre":"Capacitor",
+                    "Distancia":36
+                }
+            ]
+        },
+        {
+            "Nombre":"The cage",
+            "Enlaces":[
+                {
+                    "Nombre":"Labs",
+                    "Distancia":5
+                },
+                {
+                    "Nombre":"Capacitor",
+                    "Distancia":5
+                }
+            ]
+        },
+        {
+            "Nombre":"Labs",
+            "Enlaces":[
+                {
+                    "Nombre":"Swamps",
+                    "Distancia":2
+                },
+                {
+                    "Nombre":"Capacitor",
+                    "Distancia":8
+                }
+            ]
+        },
+        {
+            "Nombre":"Capacitor",
+            "Enlaces":[
+                {
+                    "Nombre":"The rig",
+                    "Distancia":18
+                },
+                {
+                    "Nombre":"Broken relay",
+                    "Distancia":4
+                }
+            ]
+        },
+        {
+            "Nombre":"Swamps",
+            "Enlaces":[
+                {
+                    "Nombre":"The rig",
+                    "Distancia":5
+                },
+                {
+                    "Nombre":"Capacitor",
+                    "Distancia":16
+                }
+            ]
+        },
+        {
+            "Nombre":"Broken relay",
+            "Enlaces":[
+                {
+                    "Nombre":"Artillery",
+                    "Distancia":7
+                }
+            ]
+        },
+        {
+            "Nombre":"Artillery",
+            "Enlaces":[
+                {
+                    "Nombre":"Crash site",
+                    "Distancia":9
+                }
+            ]
+        },
+        {
+            "Nombre":"Crash site",
+            "Enlaces":[
+                {
+                    "Nombre":"Spotted lake",
+                    "Distancia":8
+                }
+            ]
+        },
+        {
+            "Nombre":"Spotted lake",
+            "Enlaces":[
+                {
+                    "Nombre":"Containment",
+                    "Distancia":15
+                }
+            ]
+        }
+    ]
+}
