@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1628127895 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\ejemplo_h\main.cpp
+	<iostream>
+	"lista.h"
+
+1627867166 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\ejemplo_h\src\nodo.cpp
+	"nodo.h"
+
+1627876563 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\ejemplo_h\include\nodo.h
+	<iostream>
+
+1628127972 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\ejemplo_h\src\lista.cpp
+	"lista.h"
+
+1627866530 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\ejemplo_h\include\lista.h
+	"nodo.h"
+
