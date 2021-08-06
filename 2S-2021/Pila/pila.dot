@@ -1,0 +1,56 @@
+digraph G {
+
+rankdir = UD;
+
+	node [shape=record,color=black];
+label = "transacciones"; 
+
+color= black 
+
+		n_0[label = "Valor: 25"];
+
+		n_1[label = "Valor: 23"];
+
+		n_2[label = "Valor: 2"];
+
+		n_3[label = "Valor: 26"];
+
+		n_4[label = "Valor: 25"];
+
+		n_5[label = "Valor: 23"];
+
+		n_6[label = "Valor: 2"];
+
+		n_7[label = "Valor: 26"];
+
+		n_8[label = "Valor: 25"];
+
+		n_9[label = "Valor: 23"];
+
+		n_10[label = "Valor: 2"];
+
+		n_11[label = "Valor: 26"];
+
+		n_12[label = "Valor: 25"];
+
+		n_13[label = "Valor: 23"];
+
+		n_14[label = "Valor: 2"];
+
+n_0 ->n_1;
+n_1 ->n_2;
+n_2 ->n_3;
+n_3 ->n_4;
+n_4 ->n_5;
+n_5 ->n_6;
+n_6 ->n_7;
+n_7 ->n_8;
+n_8 ->n_9;
+n_9 ->n_10;
+n_10 ->n_11;
+n_11 ->n_12;
+n_12 ->n_13;
+n_13 ->n_14;
+	}
+
+ }
