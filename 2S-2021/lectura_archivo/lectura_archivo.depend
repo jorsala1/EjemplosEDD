@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628202074 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\lectura_archivo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
