@@ -2,9 +2,9 @@
 
 nodo::nodo()
 {
-    this->id = 25;
+    this->id = 0;
     this->sig = NULL;
-
+    this->ant = NULL;
 }
 
 int nodo::get_id(){

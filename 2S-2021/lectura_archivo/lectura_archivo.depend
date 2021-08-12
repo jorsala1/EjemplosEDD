@@ -5,3 +5,25 @@
 	<string>
 	<bits/stdc++.h>
 
+1628376382 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\lectura_archivo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	"lista_simple.h"
+
+1628376349 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\lectura_archivo\src\lista_simple.cpp
+	"lista_simple.h"
+
+1628375923 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\lectura_archivo\include\lista_simple.h
+	"nodo.h"
+
+1628376234 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\lectura_archivo\include\nodo.h
+	<iostream>
+	<fstream>
+	<string>
+	<string>
+
+1628273473 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\lectura_archivo\src\nodo.cpp
+	"nodo.h"
+

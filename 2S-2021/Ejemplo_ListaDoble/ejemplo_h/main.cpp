@@ -2,10 +2,15 @@
 #include "lista.h"
 
 using namespace std;
-
+void prueba(long long int dpi){
+    cout<<dpi<<endl;
+}
 int main()
 {
     int op=0;
+
+    long long int dpi = 3000347170101;
+    prueba(dpi);
 
 
     lista * nueva_lista= nueva_lista = new lista();

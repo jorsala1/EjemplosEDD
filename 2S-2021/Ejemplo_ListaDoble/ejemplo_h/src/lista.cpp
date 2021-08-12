@@ -8,6 +8,8 @@ lista::lista()
     cout<<"se inicio la lista"<<endl;
 }
 
+
+
 void lista::insertar_Final(int dato){
     //crear nodo
     nodo * nuevo = new nodo();
@@ -63,7 +65,7 @@ void lista::insertar_ordenado(int dato){
             nuevo->sig = this->primero;
             this->primero->ant = nuevo;
             this->primero= nuevo;
-        }else if(nuevo->id >this->ultimo->id){ //validamos si el nuevo es mayo al ultimo, va despues
+        }else if(nuevo->id >this->ultimo->id){ //validamos si el nuevo es mayor al ultimo, va despues
             nuevo->ant = this->ultimo;
             this->ultimo->sig = nuevo;
             this->ultimo = nuevo;

@@ -22,6 +22,8 @@ class lista
         nodo *  buscar(int dato);
         void mostrar_lista();
 
+        void prueba();
+
 
 };
 
