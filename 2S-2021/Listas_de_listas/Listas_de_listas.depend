@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1628821899 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\main.cpp
+	<iostream>
+	"lista_alumnos.h"
+
+1628817135 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\include\lista_alumnos.h
+	"nodo_alumno.h"
+
+1628821689 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\include\nodo_alumno.h
+	<iostream>
+	"lista_cursos.h"
+
+1628820696 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\lista_alumnos.cpp
+	"lista_alumnos.h"
+
+1628820014 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\nodo_alumno.cpp
+	"nodo_alumno.h"
+
+1628786729 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\include\lista_cursos.h
+	"nodo_curso.h"
+
+1628816833 c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\include\nodo_curso.h
+	<iostream>
+
+1628821114 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\lista_cursos.cpp
+	"lista_cursos.h"
+
+1628816864 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\nodo_curso.cpp
+	"nodo_curso.h"
+
