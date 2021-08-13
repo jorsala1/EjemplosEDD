@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1628821899 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\main.cpp
+1628832255 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\main.cpp
 	<iostream>
 	"lista_alumnos.h"
 
@@ -10,7 +10,7 @@
 	<iostream>
 	"lista_cursos.h"
 
-1628820696 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\lista_alumnos.cpp
+1628832004 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\lista_alumnos.cpp
 	"lista_alumnos.h"
 
 1628820014 source:c:\users\joshu\desktop\2do semestre 2021\ejemplos edd\repo_ejemplos\ejemplosedd\2s-2021\listas_de_listas\src\nodo_alumno.cpp

@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,7 +34,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/lista_alumnos.h" />
+		<Unit filename="include/lista_cursos.h" />
+		<Unit filename="include/nodo_alumno.h" />
+		<Unit filename="include/nodo_curso.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/lista_alumnos.cpp" />
+		<Unit filename="src/lista_cursos.cpp" />
+		<Unit filename="src/nodo_alumno.cpp" />
+		<Unit filename="src/nodo_curso.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

@@ -109,8 +109,9 @@ void pila::graficar_pila(){
         fs << "\t}\n" << endl;
         fs << " }" << endl;
         fs.close();
-}
+        //system( "dot -Tpng pila.dot -o pila.png");
 
+}
 
 //destructor de la pila
 pila::~pila()

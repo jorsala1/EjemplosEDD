@@ -9,7 +9,7 @@ lista_alumnos::lista_alumnos()
 void lista_alumnos::insertar(int carnet, string nombre){ //insertar ordenado
     nodo_alumno * nuevo = new nodo_alumno(carnet,nombre);
 
-    //codigo ejemplo lista doble
+    //codigo ejemplo lista doble - el mismo codigo del lab 3
     if(this->primero==NULL){ //validamos que la lista este vacia
         this->primero = nuevo;
         this->ultimo = nuevo;
@@ -95,6 +95,23 @@ void lista_alumnos::mostrar_cursos_alumno(int carnet){
         nodo_buscado->cursos->mostrar_cursos();
     }else{
         cout<<"No se encontro el alumno con el carnet : "<<carnet<<endl;
+    }
+}
+
+void lista_alumnos::mostrar_alumnos_cursos(){
+    if(this->primero == NULL){
+        cout<<"\n ***** No hay elementos en la lista de alumnos \n"<<endl;
+    }else{
+        nodo_alumno * pivote = this->primero;
+
+        cout<<"\n**************"<<endl;
+        while(pivote != NULL){
+            cout<<"-> " << pivote->carnet<<"  Nombre: "<<pivote->nombre<<endl;
+            pivote->cursos->mostrar_cursos();
+            cout<<"\n";
+            pivote= pivote->siguiente;
+        }
+        cout<<"************** \n"<<endl;
     }
 }
 

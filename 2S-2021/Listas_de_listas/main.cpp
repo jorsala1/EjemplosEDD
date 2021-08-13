@@ -91,9 +91,9 @@ int main()
                 cout << "Tipo de dato invalido: " << ia.what() << '\n';
                 cout<<"\n**************** ERROR AL INGRESAR DATOS **************** "<<endl;
             }
+        }else if(op=="5"){
+            lista_nueva->mostrar_alumnos_cursos();
         }
-
-
     }
     return 0;
 }
