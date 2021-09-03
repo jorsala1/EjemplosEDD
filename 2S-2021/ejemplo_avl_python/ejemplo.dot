@@ -1,0 +1,20 @@
+digraph arbol {
+n10[label= "10"];
+n8[label= "8"];
+n5[label= "5"];
+n28[label= "28"];
+n25[label= "25"];
+n15[label= "15"];
+n27[label= "27"];
+n30[label= "30"];
+n40[label= "40"];
+
+n10 -> n8
+n10 -> n28
+n8 -> n5
+n28 -> n25
+n28 -> n30
+n25 -> n15
+n25 -> n27
+n30 -> n40
+}
