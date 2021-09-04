@@ -80,8 +80,8 @@ class avl:
         aux = nodo.der
         nodo.der = aux.izq
         aux.izq = nodo
-        nodo.altura = self.max(self.altura(nodo.der), self.altura(nodo.izq))
-        aux.altura = self.max(nodo.altura, self.altura(nodo.der))
+        nodo.altura = self.max(self.altura(nodo.der), self.altura(nodo.izq)) +1
+        aux.altura = self.max(nodo.altura, self.altura(nodo.der)) +1
         return aux
 
     #IZQ-DER
