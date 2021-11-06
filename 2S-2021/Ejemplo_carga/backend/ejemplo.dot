@@ -1,5 +1,0 @@
-digraph arbol {
- rankdir="LR"n5[label= "5"];
-n4[label= "4"];
-n5 -> n4
-}
